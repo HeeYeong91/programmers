@@ -1,3 +1,5 @@
+package Day_4;
+
 import java.util.stream.IntStream;
 
 /**

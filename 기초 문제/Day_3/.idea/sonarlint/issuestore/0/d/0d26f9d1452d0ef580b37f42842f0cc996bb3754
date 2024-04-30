@@ -1,4 +1,6 @@
 
-d
-java:S1643"Use a StringBuilder instead.(¾¸ïèûÿÿÿÿ8ú˜˜ò1J$90eed85f-08e1-4ac6-8876-8478f77348c3
-m	java:S106"+Replace this use of System.out by a logger.(‹ÌÊÃ8¦™˜ò1J$18140e36-ea87-4d5c-8f1b-468fe77282fb
+7
+java:S1643"Use a StringBuilder instead.(¾¸ïèûÿÿÿÿ
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(í”ÉÉüÿÿÿÿ
+@	java:S106
+"+Replace this use of System.out by a logger.(‹ÌÊÃ
