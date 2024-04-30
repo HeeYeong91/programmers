@@ -4,27 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="135563da-75a8-4af9-9025-2d4c919b84c2" name="Changes" comment=":memo: 기초문제 Day 1 ~ 5 다시">
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/2/1/214ec07dfd11da8e240eeb4c3f4aba54a651b439" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/2/1/214ec07dfd11da8e240eeb4c3f4aba54a651b439" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/2/f/2fe33924c49e0b57ce7b82d530fe8769a480c075" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/2/f/2fe33924c49e0b57ce7b82d530fe8769a480c075" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/3/3/3373cd022168f08085a89874be8288c5e218a5ab" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/3/3/3373cd022168f08085a89874be8288c5e218a5ab" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/3/f/3f5fb0d1ade0b7b87ad6151cc8deebe5cf12b684" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/3/f/3f5fb0d1ade0b7b87ad6151cc8deebe5cf12b684" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/4/0/40c33f4c3c78e4b53e993c1248e19e255687324e" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/4/0/40c33f4c3c78e4b53e993c1248e19e255687324e" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/a/9/a9caad4412fce1282cd94cf57922b6443ee97bb7" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/a/9/a9caad4412fce1282cd94cf57922b6443ee97bb7" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/b/7/b7f1b126eeacc538038607095480f8dae2a500cc" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/b/7/b7f1b126eeacc538038607095480f8dae2a500cc" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/b/c/bc68df205fc0353d96d13ddfe820df018779c55f" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/b/c/bc68df205fc0353d96d13ddfe820df018779c55f" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/c/0/c030340d6f1e2273f1267dbada5387e0d0fe3bb0" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/c/0/c030340d6f1e2273f1267dbada5387e0d0fe3bb0" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/c/0/c0656b8ca2aeb2be5b06af472b2bd3b2578297a4" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/c/0/c0656b8ca2aeb2be5b06af472b2bd3b2578297a4" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/c/b/cb9ea9694bb717fb07c43bd9df8dae6a9e759c60" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/c/b/cb9ea9694bb717fb07c43bd9df8dae6a9e759c60" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/e/6/e64cf98c3f08811fead54367a988249e52e11a74" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/e/6/e64cf98c3f08811fead54367a988249e52e11a74" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/e/a/ea7a24cd3b05cde439524e943396a02d4146f4c5" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/e/a/ea7a24cd3b05cde439524e943396a02d4146f4c5" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/f/a/fa892b95fd1cb5134de651e57133322df3efcb7e" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/f/a/fa892b95fd1cb5134de651e57133322df3efcb7e" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/기초 문제/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/기초 문제/.idea/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/기초 문제/Day_1/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/기초 문제/Day_1/.idea/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/기초 문제/Day_3/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/기초 문제/Day_3/.idea/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/기초 문제/Day_4/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/기초 문제/Day_4/.idea/.gitignore" afterDir="false" />
-    </list>
+    <list default="true" id="135563da-75a8-4af9-9025-2d4c919b84c2" name="Changes" comment=":memo: 기초문제 Day 1 ~ 5 다시" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -129,7 +109,7 @@
       <workItem from="1714454953143" duration="4000" />
       <workItem from="1714455039069" duration="315000" />
       <workItem from="1714455429913" duration="220000" />
-      <workItem from="1714455982083" duration="738000" />
+      <workItem from="1714455982083" duration="798000" />
     </task>
     <task id="LOCAL-00001" summary=":memo: 기초문제 Day 1 ~ 5">
       <option name="closed" value="true" />
@@ -163,7 +143,15 @@
       <option name="project" value="LOCAL" />
       <updated>1714456590212</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary=":memo: 기초문제 Day 1 ~ 5 다시">
+      <option name="closed" value="true" />
+      <created>1714456765865</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1714456765865</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
