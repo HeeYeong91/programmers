@@ -4,13 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="135563da-75a8-4af9-9025-2d4c919b84c2" name="Changes" comment=":memo: 기초문제 Day 6 마지막 두 원소">
-      <change afterPath="$PROJECT_DIR$/basicQuestion/Day_6/.idea/sonarlint/issuestore/0/d/0d26f9d1452d0ef580b37f42842f0cc996bb3754" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/basicQuestion/Day_6/.idea/sonarlint/securityhotspotstore/0/d/0d26f9d1452d0ef580b37f42842f0cc996bb3754" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/basicQuestion/Day_6/Main2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="135563da-75a8-4af9-9025-2d4c919b84c2" name="Changes" comment=":memo: 기초문제 Day 6 수 조작하기 1">
       <change beforePath="$PROJECT_DIR$/basicQuestion/Day_6/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/basicQuestion/Day_6/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/basicQuestion/Day_6/.idea/sonarlint/securityhotspotstore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/basicQuestion/Day_6/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
     </list>
@@ -161,7 +155,7 @@
       <workItem from="1714455429913" duration="220000" />
       <workItem from="1714455982083" duration="798000" />
       <workItem from="1714456804578" duration="535000" />
-      <workItem from="1714549223920" duration="2016000" />
+      <workItem from="1714549223920" duration="2377000" />
     </task>
     <task id="LOCAL-00001" summary=":memo: 기초문제 Day 1 ~ 5">
       <option name="closed" value="true" />
@@ -219,7 +213,15 @@
       <option name="project" value="LOCAL" />
       <updated>1714551861441</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary=":memo: 기초문제 Day 6 수 조작하기 1">
+      <option name="closed" value="true" />
+      <created>1714552206061</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1714552206061</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -240,6 +242,7 @@
     <MESSAGE value=":memo: 기초문제 Day 1 ~ 5" />
     <MESSAGE value=":memo: 기초문제 Day 1 ~ 5 다시" />
     <MESSAGE value=":memo: 기초문제 Day 6 마지막 두 원소" />
-    <option name="LAST_COMMIT_MESSAGE" value=":memo: 기초문제 Day 6 마지막 두 원소" />
+    <MESSAGE value=":memo: 기초문제 Day 6 수 조작하기 1" />
+    <option name="LAST_COMMIT_MESSAGE" value=":memo: 기초문제 Day 6 수 조작하기 1" />
   </component>
 </project>
