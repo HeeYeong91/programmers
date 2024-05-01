@@ -2560,3 +2560,7 @@ g
 ebasicQuestion/Day_6/.idea/sonarlint/securityhotspotstore/c/5/c5b00f7f0ec9482b8ba3c328d6af16586c50b863,b\b\bbd5122dc803bf3e6f3b88b75592b0ae15358b3d
 •
 ebasicQuestion/Day_3/.idea/sonarlint/securityhotspotstore/c/5/c5b00f7f0ec9482b8ba3c328d6af16586c50b863,1\7\172275cf7b9c18fef94b15f100fb41612b90f573
+N
+basicQuestion/Day_6/Main2.java,4\1\4164990ebfa698059a7a227fbf66f40fc1cd74ff
+•
+ebasicQuestion/Day_6/.idea/sonarlint/securityhotspotstore/0/d/0d26f9d1452d0ef580b37f42842f0cc996bb3754,8\e\8e6e180272a9faaf596c78b49ffe73dc23fa5638
