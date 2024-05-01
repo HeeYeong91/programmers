@@ -1,12 +1,0 @@
-
-n	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(å‰‚3
-M
-java:S2589"7Remove this expression which always evaluates to "true"(¢ÜÚÊ
-M
-java:S2589"7Remove this expression which always evaluates to "true"(¢ÜÚÊ
-R
-java:S2589"7Remove this expression which always evaluates to "true"(…ÓòÖùÿÿÿÿ
-E	java:S106	"+Replace this use of System.out by a logger.(Ê’çüÿÿÿÿ
-@	java:S106
-"+Replace this use of System.out by a logger.(ÔÏ¯´
-E	java:S106"+Replace this use of System.out by a logger.(Œ¾İªùÿÿÿÿ
