@@ -1,0 +1,7 @@
+
+s	java:S127"XRefactor the code in order to not assign to this loop counter from within the loop body.(¨…ÄK8ÖŽÓ¿ó1
+›	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(´žÐ#8ÀîÇ¿ó1J$944138ff-e9cd-4ae3-b9e2-fb3104dad55e
+˜
+java:S1149"PReplace the synchronized class "Stack" by an unsynchronized one such as "Deque".(û›þöýÿÿÿÿ8¸ïÇ¿ó1J$6413662d-4225-42da-823a-0e040df819c1
+r	java:S106"+Replace this use of System.out by a logger.(¬ñé‡þÿÿÿÿ8ºïÇ¿ó1J$d65723cd-40ed-49ce-9f97-9d83d33b2264
+r	java:S106"+Replace this use of System.out by a logger.(ªÓ¼áþÿÿÿÿ8ºïÇ¿ó1J$a6bccd06-5f6f-4468-b1a4-c7f418020417
