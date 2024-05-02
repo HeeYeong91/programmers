@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="135563da-75a8-4af9-9025-2d4c919b84c2" name="Changes" comment=":memo: 기초문제 Day 6 수열과 구간 쿼리 3">
-      <change beforePath="$PROJECT_DIR$/basicQuestion/Day_6/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/basicQuestion/Day_6/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/basicQuestion/Day_6/.idea/sonarlint/securityhotspotstore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/basicQuestion/Day_6/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
+    <list default="true" id="135563da-75a8-4af9-9025-2d4c919b84c2" name="Changes" comment=":memo: 기초문제 Day 6 수열과 구간 쿼리 2">
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -155,7 +155,7 @@
       <workItem from="1714455429913" duration="220000" />
       <workItem from="1714455982083" duration="798000" />
       <workItem from="1714456804578" duration="535000" />
-      <workItem from="1714549223920" duration="3493000" />
+      <workItem from="1714549223920" duration="3545000" />
     </task>
     <task id="LOCAL-00001" summary=":memo: 기초문제 Day 1 ~ 5">
       <option name="closed" value="true" />
@@ -237,7 +237,15 @@
       <option name="project" value="LOCAL" />
       <updated>1714553085559</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary=":memo: 기초문제 Day 6 수열과 구간 쿼리 2">
+      <option name="closed" value="true" />
+      <created>1714554323291</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1714554323291</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -261,6 +269,7 @@
     <MESSAGE value=":memo: 기초문제 Day 6 수 조작하기 1" />
     <MESSAGE value=":memo: 기초문제 Day 6 수 조작하기 2" />
     <MESSAGE value=":memo: 기초문제 Day 6 수열과 구간 쿼리 3" />
-    <option name="LAST_COMMIT_MESSAGE" value=":memo: 기초문제 Day 6 수열과 구간 쿼리 3" />
+    <MESSAGE value=":memo: 기초문제 Day 6 수열과 구간 쿼리 2" />
+    <option name="LAST_COMMIT_MESSAGE" value=":memo: 기초문제 Day 6 수열과 구간 쿼리 2" />
   </component>
 </project>

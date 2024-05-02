@@ -1,0 +1,6 @@
+
+›	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(´žÐ#8ï“Î½ó1J$030243ee-bdc7-4823-8909-2ce3b9a2298f
+r	java:S106"+Replace this use of System.out by a logger.(¬ñé‡þÿÿÿÿ8“”Î½ó1J$3d3d550d-9db4-4157-96b7-133e48130635
+r	java:S106"+Replace this use of System.out by a logger.(ªÓ¼áþÿÿÿÿ8””Î½ó1J$232aab40-8573-4842-a72e-48f1d1829400
+œ
+java:S3012"YUse "Arrays.copyOf", "Arrays.asList", "Collections.addAll" or "System.arraycopy" instead.(˜­¤û8ÇæÜ½ó1J$40b641fc-58c6-43d5-8d07-e1cf5179aead
