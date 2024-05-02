@@ -4,27 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="527407e3-1d4d-4c02-bcb4-9028ea76c311" name="Changes" comment=":memo: 기초문제 Day 7 수열과 구간 쿼리 4">
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/1/d/1d44f285e6fd9704c9e6375610f0709675adc6f4" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/4/9/49a87e80bd2b29913e0c4aee35fa6575047e9e90" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/5/6/56d301561d7d0b99f4fbf6c2b031a39ea540bd8b" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/8/8/88a9255124c95bdc913197c120a8d560edc59c8e" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/9/f/9fe84ebb15faf917b7def6236dba604453cc61e0" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/a/d/ada58abbe9efcb539493370d03673af8a184184b" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/c/3/c389a5006dda8e5853ac4abb4c4159d7f6961149" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/d/e/de2abdd400ccb5d954bd693d792cbeb6f115f167" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/1/d/1d44f285e6fd9704c9e6375610f0709675adc6f4" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/4/9/49a87e80bd2b29913e0c4aee35fa6575047e9e90" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/5/6/56d301561d7d0b99f4fbf6c2b031a39ea540bd8b" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/8/8/88a9255124c95bdc913197c120a8d560edc59c8e" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/9/f/9fe84ebb15faf917b7def6236dba604453cc61e0" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/a/d/ada58abbe9efcb539493370d03673af8a184184b" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/c/3/c389a5006dda8e5853ac4abb4c4159d7f6961149" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/d/e/de2abdd400ccb5d954bd693d792cbeb6f115f167" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day_7/.idea/sonarlint/issuestore/0/d/0d26f9d1452d0ef580b37f42842f0cc996bb3754" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day_7/.idea/sonarlint/securityhotspotstore/0/d/0d26f9d1452d0ef580b37f42842f0cc996bb3754" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day_7/Main2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="527407e3-1d4d-4c02-bcb4-9028ea76c311" name="Changes" comment=":memo: 기초문제 Day 7 카운트 업">
       <change beforePath="$PROJECT_DIR$/Day_7/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/Day_7/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Day_7/.idea/sonarlint/securityhotspotstore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/Day_7/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
     </list>
@@ -131,7 +111,7 @@
       <updated>1714128353683</updated>
       <workItem from="1714128355384" duration="2683000" />
       <workItem from="1714625916844" duration="51000" />
-      <workItem from="1714625987571" duration="1269000" />
+      <workItem from="1714625987571" duration="1749000" />
     </task>
     <task id="LOCAL-00001" summary=":memo: 기초문제 Day 7 수열과 구간 쿼리 4">
       <option name="closed" value="true" />
@@ -141,7 +121,23 @@
       <option name="project" value="LOCAL" />
       <updated>1714626856326</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary=":memo: 기초문제 Day 7 배열 만들기 2">
+      <option name="closed" value="true" />
+      <created>1714629558750</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1714629558750</updated>
+    </task>
+    <task id="LOCAL-00003" summary=":memo: 기초문제 Day 7 카운트 업">
+      <option name="closed" value="true" />
+      <created>1714629750606</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1714629750606</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -149,6 +145,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value=":memo: 기초문제 Day 7 수열과 구간 쿼리 4" />
-    <option name="LAST_COMMIT_MESSAGE" value=":memo: 기초문제 Day 7 수열과 구간 쿼리 4" />
+    <MESSAGE value=":memo: 기초문제 Day 7 배열 만들기 2" />
+    <MESSAGE value=":memo: 기초문제 Day 7 카운트 업" />
+    <option name="LAST_COMMIT_MESSAGE" value=":memo: 기초문제 Day 7 카운트 업" />
   </component>
 </project>
