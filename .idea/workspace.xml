@@ -4,7 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="135563da-75a8-4af9-9025-2d4c919b84c2" name="Changes" comment=":memo: 기초문제 Day 9 부분 문자열 이어 붙여 문자열 만들기" />
+    <list default="true" id="135563da-75a8-4af9-9025-2d4c919b84c2" name="Changes" comment=":memo: 기초문제 Day 9 문자열의 뒤의 n글자">
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/basicQuestion/Day_9/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/basicQuestion/Day_9/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/basicQuestion/Day_9/.idea/sonarlint/securityhotspotstore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/basicQuestion/Day_9/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -247,7 +252,15 @@
       <option name="project" value="LOCAL" />
       <updated>1714902030940</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary=":memo: 기초문제 Day 9 문자열의 뒤의 n글자">
+      <option name="closed" value="true" />
+      <created>1714902344169</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1714902344169</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -274,6 +287,7 @@
     <MESSAGE value=":memo: 기초문제 Day 6 수열과 구간 쿼리 2" />
     <MESSAGE value=":memo: 기초문제 Day 8" />
     <MESSAGE value=":memo: 기초문제 Day 9 부분 문자열 이어 붙여 문자열 만들기" />
-    <option name="LAST_COMMIT_MESSAGE" value=":memo: 기초문제 Day 9 부분 문자열 이어 붙여 문자열 만들기" />
+    <MESSAGE value=":memo: 기초문제 Day 9 문자열의 뒤의 n글자" />
+    <option name="LAST_COMMIT_MESSAGE" value=":memo: 기초문제 Day 9 문자열의 뒤의 n글자" />
   </component>
 </project>
