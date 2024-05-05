@@ -1,29 +1,24 @@
-import java.util.LinkedList;
-
 /**
  * 코딩 기초 트레이닝 Day 9
- * 배열 만들기 5
+ * 부분 문자열 이어 붙여 문자열 만들기
  */
 public class Main2 {
     public static void main(String[] args) {
-        int[] result = solution(new String[]{"0123456789","9876543210","9999999999999"}, 50000, 5, 5);
-        for (int num : result) {
-            System.out.print(num + " ");
-        }
-        System.out.println();
+        System.out.println(solution(new String[]{"progressive", "hamburger", "hammer", "ahocorasick"}, new int[][]{{0, 4}, {1, 2}, {3, 5}, {7, 7}}));
     }
 
-    public static int[] solution(String[] intStrs, int k, int s, int l) {
-        LinkedList<Integer> list = new LinkedList<>();
+    public static String solution(String[] my_strings, int[][] parts) {
+        StringBuilder sb = new StringBuilder();
 
-        for (int i = 0; i < intStrs.length; i++) {
-            int tmp = Integer.parseInt(intStrs[i].substring(s, s + l));
+        for (int i = 0; i < my_strings.length; i++) {
+            for (int j = i; j < i + 1; j++) {
+                int s = parts[j][0];
+                int e = parts[j][1];
 
-            if (tmp > k) {
-                list.add(tmp);
+                sb.append(my_strings[i].substring(s, e + 1));
             }
         }
 
-        return list.stream().mapToInt(Integer::intValue).toArray();
+        return sb.toString();
     }
 }
