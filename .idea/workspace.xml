@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="135563da-75a8-4af9-9025-2d4c919b84c2" name="Changes" comment=":memo: 기초문제 Day 9 문자열의 뒤의 n글자">
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
+    <list default="true" id="135563da-75a8-4af9-9025-2d4c919b84c2" name="Changes" comment=":memo: 기초문제 Day 9 접미사 배열">
       <change beforePath="$PROJECT_DIR$/basicQuestion/Day_9/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/basicQuestion/Day_9/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/basicQuestion/Day_9/.idea/sonarlint/securityhotspotstore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/basicQuestion/Day_9/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
     </list>
@@ -260,7 +258,15 @@
       <option name="project" value="LOCAL" />
       <updated>1714902344169</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary=":memo: 기초문제 Day 9 접미사 배열">
+      <option name="closed" value="true" />
+      <created>1714902849737</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1714902849738</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -288,6 +294,7 @@
     <MESSAGE value=":memo: 기초문제 Day 8" />
     <MESSAGE value=":memo: 기초문제 Day 9 부분 문자열 이어 붙여 문자열 만들기" />
     <MESSAGE value=":memo: 기초문제 Day 9 문자열의 뒤의 n글자" />
-    <option name="LAST_COMMIT_MESSAGE" value=":memo: 기초문제 Day 9 문자열의 뒤의 n글자" />
+    <MESSAGE value=":memo: 기초문제 Day 9 접미사 배열" />
+    <option name="LAST_COMMIT_MESSAGE" value=":memo: 기초문제 Day 9 접미사 배열" />
   </component>
 </project>

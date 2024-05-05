@@ -1,0 +1,10 @@
+
+
+java:S1192"GDefine a constant instead of duplicating this literal "banana" 4 times.(®Åğóıÿÿÿÿ8ú¾Áô1J$3bbda4ab-7ca6-416e-9b7f-5f599899fb91
+˜	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ï¾ØŠùÿÿÿÿ8û¾Áô1J$b61ff414-e306-479d-a682-64f154b5698a
+˜	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ï¾ØŠùÿÿÿÿ8ü¾Áô1J$5d48e3f3-c7de-403b-9a18-87ec2f827f98
+r	java:S106"+Replace this use of System.out by a logger.(®Åğóıÿÿÿÿ8Ÿ¾Áô1J$ad6f71d6-8021-41f4-b925-5571e71d621e
+r	java:S106"+Replace this use of System.out by a logger.(Ğ±¯€ûÿÿÿÿ8Ÿ¾Áô1J$4ba6d7e1-45cc-443b-b924-01ccf01dac3f
+m	java:S106	"+Replace this use of System.out by a logger.(Ó‡æ®8Ÿ¾Áô1J$feeb8b17-0024-4af5-aadf-00d08497d2c0
+m	java:S106
+"+Replace this use of System.out by a logger.(Æ„‡Š8Ÿ¾Áô1J$9885a324-6996-4200-bfe5-a96a51d2b44b
