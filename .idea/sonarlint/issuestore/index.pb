@@ -41,3 +41,11 @@ O
 basicQuestion/Day_10/Main2.java,1\7\17f617b4fddef8612c8757e0a0710984861bb1d9
 O
 basicQuestion/Day_10/Main3.java,1\f\1fc2fb6962b71900242f4d1e1565b83c6c6bbe52
+–
+fbasicQuestion/Day_10/.idea/sonarlint/securityhotspotstore/4/7/475bf0dcc22352aa8e26db3057bbc61619ac2417,f\1\f1084d7da1c116bb6f1e7c769ea28d2d3580f9f2
+O
+basicQuestion/Day_10/Main4.java,4\2\422b67ec0d8b61abb761ae88d5b603176a2e3de7
+–
+fbasicQuestion/Day_10/.idea/sonarlint/securityhotspotstore/5/f/5f63f0598426f958f0640b369868282f44d8ce48,8\0\80cb97b538eed14c6cf09ecc6020fc2ed59ac299
+O
+basicQuestion/Day_10/Main5.java,4\5\453e9b4c84860a65c3a42ad6718fcadb1fae527a
