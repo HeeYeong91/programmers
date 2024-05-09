@@ -4,8 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="135563da-75a8-4af9-9025-2d4c919b84c2" name="Changes" comment=":memo: 기초문제 Day 10 문자열의 앞의 n글자">
-      <change beforePath="$PROJECT_DIR$/basicQuestion/Day_10/.idea/sonarlint/issuestore/0/d/0d26f9d1452d0ef580b37f42842f0cc996bb3754" beforeDir="false" afterPath="$PROJECT_DIR$/basicQuestion/Day_10/.idea/sonarlint/issuestore/0/d/0d26f9d1452d0ef580b37f42842f0cc996bb3754" afterDir="false" />
+    <list default="true" id="135563da-75a8-4af9-9025-2d4c919b84c2" name="Changes" comment=":memo: 기초문제 Day 10 접두사인지 확인하기">
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/basicQuestion/Day_10/.idea/sonarlint/issuestore/a/9/a9d2be3bd230c46b86f04d8d7250f088545c7a15" beforeDir="false" afterPath="$PROJECT_DIR$/basicQuestion/Day_10/.idea/sonarlint/issuestore/a/9/a9d2be3bd230c46b86f04d8d7250f088545c7a15" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -144,7 +147,7 @@
       <workItem from="1714549223920" duration="3545000" />
       <workItem from="1714733239195" duration="685000" />
       <workItem from="1714900503639" duration="596000" />
-      <workItem from="1715240177752" duration="604000" />
+      <workItem from="1715240177752" duration="1291000" />
     </task>
     <task id="LOCAL-00001" summary=":memo: 기초문제 Day 1 ~ 5">
       <option name="closed" value="true" />
@@ -282,7 +285,15 @@
       <option name="project" value="LOCAL" />
       <updated>1715240689256</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary=":memo: 기초문제 Day 10 접두사인지 확인하기">
+      <option name="closed" value="true" />
+      <created>1715240877085</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1715240877085</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -313,6 +324,7 @@
     <MESSAGE value=":memo: 기초문제 Day 9 접미사 배열" />
     <MESSAGE value=":memo: 기초문제 Day 9 접미사인지 확인하기" />
     <MESSAGE value=":memo: 기초문제 Day 10 문자열의 앞의 n글자" />
-    <option name="LAST_COMMIT_MESSAGE" value=":memo: 기초문제 Day 10 문자열의 앞의 n글자" />
+    <MESSAGE value=":memo: 기초문제 Day 10 접두사인지 확인하기" />
+    <option name="LAST_COMMIT_MESSAGE" value=":memo: 기초문제 Day 10 접두사인지 확인하기" />
   </component>
 </project>

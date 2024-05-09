@@ -37,3 +37,7 @@ h
 fbasicQuestion/Day_10/.idea/sonarlint/securityhotspotstore/a/9/a9d2be3bd230c46b86f04d8d7250f088545c7a15,b\9\b9e7a74326fac03544d0b8a041b01bc47fedf618
 –
 fbasicQuestion/Day_10/.idea/sonarlint/securityhotspotstore/c/5/c5b00f7f0ec9482b8ba3c328d6af16586c50b863,a\5\a5adf18bc3febd65a7c16997796ca62481e182c1
+O
+basicQuestion/Day_10/Main2.java,1\7\17f617b4fddef8612c8757e0a0710984861bb1d9
+O
+basicQuestion/Day_10/Main3.java,1\f\1fc2fb6962b71900242f4d1e1565b83c6c6bbe52
