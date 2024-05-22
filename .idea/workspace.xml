@@ -4,15 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="135563da-75a8-4af9-9025-2d4c919b84c2" name="Changes" comment=":memo: 기초문제 Day 13 n개 간격의 원소들">
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/basicQuestion/Day_13/.idea/sonarlint/issuestore/0/d/0d26f9d1452d0ef580b37f42842f0cc996bb3754" beforeDir="false" afterPath="$PROJECT_DIR$/basicQuestion/Day_13/.idea/sonarlint/issuestore/0/d/0d26f9d1452d0ef580b37f42842f0cc996bb3754" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/basicQuestion/Day_13/.idea/sonarlint/issuestore/4/7/475bf0dcc22352aa8e26db3057bbc61619ac2417" beforeDir="false" afterPath="$PROJECT_DIR$/basicQuestion/Day_13/.idea/sonarlint/issuestore/4/7/475bf0dcc22352aa8e26db3057bbc61619ac2417" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/basicQuestion/Day_13/.idea/sonarlint/issuestore/5/f/5f63f0598426f958f0640b369868282f44d8ce48" beforeDir="false" afterPath="$PROJECT_DIR$/basicQuestion/Day_13/.idea/sonarlint/issuestore/5/f/5f63f0598426f958f0640b369868282f44d8ce48" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/basicQuestion/Day_13/.idea/sonarlint/issuestore/a/9/a9d2be3bd230c46b86f04d8d7250f088545c7a15" beforeDir="false" afterPath="$PROJECT_DIR$/basicQuestion/Day_13/.idea/sonarlint/issuestore/a/9/a9d2be3bd230c46b86f04d8d7250f088545c7a15" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/basicQuestion/Day_13/.idea/sonarlint/issuestore/c/5/c5b00f7f0ec9482b8ba3c328d6af16586c50b863" beforeDir="false" afterPath="$PROJECT_DIR$/basicQuestion/Day_13/.idea/sonarlint/issuestore/c/5/c5b00f7f0ec9482b8ba3c328d6af16586c50b863" afterDir="false" />
+    <list default="true" id="135563da-75a8-4af9-9025-2d4c919b84c2" name="Changes" comment=":memo: 기초문제 Day 14 홀수 vs 짝수">
+      <change beforePath="$PROJECT_DIR$/basicQuestion/Day_14/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/basicQuestion/Day_14/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/basicQuestion/Day_14/.idea/sonarlint/securityhotspotstore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/basicQuestion/Day_14/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -156,7 +150,7 @@
       <workItem from="1715584159275" duration="2086000" />
       <workItem from="1715862387748" duration="2144000" />
       <workItem from="1715864967922" duration="43000" />
-      <workItem from="1716377365762" duration="298000" />
+      <workItem from="1716377365762" duration="776000" />
     </task>
     <task id="LOCAL-00001" summary=":memo: 기초문제 Day 1 ~ 5">
       <option name="closed" value="true" />
@@ -446,7 +440,15 @@
       <option name="project" value="LOCAL" />
       <updated>1715864952572</updated>
     </task>
-    <option name="localTasksCounter" value="37" />
+    <task id="LOCAL-00037" summary=":memo: 기초문제 Day 14 홀수 vs 짝수">
+      <option name="closed" value="true" />
+      <created>1716377850056</created>
+      <option name="number" value="00037" />
+      <option name="presentableId" value="LOCAL-00037" />
+      <option name="project" value="LOCAL" />
+      <updated>1716377850056</updated>
+    </task>
+    <option name="localTasksCounter" value="38" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -464,7 +466,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value=":memo: 기초문제 Day 8" />
     <MESSAGE value=":memo: 기초문제 Day 9 부분 문자열 이어 붙여 문자열 만들기" />
     <MESSAGE value=":memo: 기초문제 Day 9 문자열의 뒤의 n글자" />
     <MESSAGE value=":memo: 기초문제 Day 9 접미사 배열" />
@@ -489,6 +490,7 @@
     <MESSAGE value=":memo: 기초문제 Day 13 왼쪽 오른쪽" />
     <MESSAGE value=":memo: 기초문제 Day 13 n 번째 원소까지" />
     <MESSAGE value=":memo: 기초문제 Day 13 n개 간격의 원소들" />
-    <option name="LAST_COMMIT_MESSAGE" value=":memo: 기초문제 Day 13 n개 간격의 원소들" />
+    <MESSAGE value=":memo: 기초문제 Day 14 홀수 vs 짝수" />
+    <option name="LAST_COMMIT_MESSAGE" value=":memo: 기초문제 Day 14 홀수 vs 짝수" />
   </component>
 </project>
