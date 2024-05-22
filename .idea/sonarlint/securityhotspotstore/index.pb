@@ -129,3 +129,11 @@ O
 basicQuestion/Day_14/Main1.java,8\7\87a79a8dfe07ab41e434d3f82e1022efc9e61672
 –
 fbasicQuestion/Day_14/.idea/sonarlint/securityhotspotstore/c/5/c5b00f7f0ec9482b8ba3c328d6af16586c50b863,3\f\3f851eb5abc3c19d5f6df32d584871f32bc7f051
+O
+basicQuestion/Day_14/Main2.java,e\3\e3d140b477a5153f5bf924acdd69db7b5374a1e1
+–
+fbasicQuestion/Day_14/.idea/sonarlint/securityhotspotstore/0/d/0d26f9d1452d0ef580b37f42842f0cc996bb3754,2\3\238814d76f8187391fef223385e3b12b6d8125ae
+O
+basicQuestion/Day_14/Main3.java,2\e\2e99735448a3590e663b3ce1a45050fffd0193b9
+–
+fbasicQuestion/Day_14/.idea/sonarlint/securityhotspotstore/a/9/a9d2be3bd230c46b86f04d8d7250f088545c7a15,0\7\0700900f11d5e42972ccb2ab603c25f5e5e721b8
