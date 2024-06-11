@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="135563da-75a8-4af9-9025-2d4c919b84c2" name="Changes" comment=":memo: 기초문제 Day 15 조건에 맞게 수열 변환하기 1">
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="135563da-75a8-4af9-9025-2d4c919b84c2" name="Changes" comment=":memo: 기초문제 Day 15 조건에 맞게 수열 변환하기 2">
       <change beforePath="$PROJECT_DIR$/basicQuestion/Day_15/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/basicQuestion/Day_15/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/basicQuestion/Day_15/.idea/sonarlint/securityhotspotstore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/basicQuestion/Day_15/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
     </list>
@@ -154,7 +151,7 @@
       <workItem from="1715862387748" duration="2144000" />
       <workItem from="1715864967922" duration="43000" />
       <workItem from="1716377365762" duration="2604000" />
-      <workItem from="1718087009488" duration="1322000" />
+      <workItem from="1718087009488" duration="1935000" />
     </task>
     <task id="LOCAL-00001" summary=":memo: 기초문제 Day 1 ~ 5">
       <option name="closed" value="true" />
@@ -492,7 +489,15 @@
       <option name="project" value="LOCAL" />
       <updated>1718087741507</updated>
     </task>
-    <option name="localTasksCounter" value="43" />
+    <task id="LOCAL-00043" summary=":memo: 기초문제 Day 15 조건에 맞게 수열 변환하기 2">
+      <option name="closed" value="true" />
+      <created>1718088780438</created>
+      <option name="number" value="00043" />
+      <option name="presentableId" value="LOCAL-00043" />
+      <option name="project" value="LOCAL" />
+      <updated>1718088780438</updated>
+    </task>
+    <option name="localTasksCounter" value="44" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -510,7 +515,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value=":memo: 기초문제 Day 10 접두사인지 확인하기" />
     <MESSAGE value=":memo: 기초문제 Day 10 문자열 뒤집기" />
     <MESSAGE value=":memo: 기초문제 Day 10 세로 읽기" />
     <MESSAGE value=":memo: 기초문제 Day 10 qr code" />
@@ -535,6 +539,7 @@
     <MESSAGE value=":memo: 기초문제 Day 14 n보다 커질 때까지 더하기" />
     <MESSAGE value=":memo: 기초문제 Day 14 수열과 구간 쿼리 1" />
     <MESSAGE value=":memo: 기초문제 Day 15 조건에 맞게 수열 변환하기 1" />
-    <option name="LAST_COMMIT_MESSAGE" value=":memo: 기초문제 Day 15 조건에 맞게 수열 변환하기 1" />
+    <MESSAGE value=":memo: 기초문제 Day 15 조건에 맞게 수열 변환하기 2" />
+    <option name="LAST_COMMIT_MESSAGE" value=":memo: 기초문제 Day 15 조건에 맞게 수열 변환하기 2" />
   </component>
 </project>
