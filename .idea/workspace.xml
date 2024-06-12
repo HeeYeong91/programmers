@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="135563da-75a8-4af9-9025-2d4c919b84c2" name="Changes" comment=":memo: 기초문제 Day 16 소문자로 바꾸기">
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
+    <list default="true" id="135563da-75a8-4af9-9025-2d4c919b84c2" name="Changes" comment=":memo: 기초문제 Day 16 배열에서 문자열 대소문자 변환하기">
+      <change beforePath="$PROJECT_DIR$/basicQuestion/Day_16/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/basicQuestion/Day_16/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/basicQuestion/Day_16/.idea/sonarlint/securityhotspotstore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/basicQuestion/Day_16/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -152,7 +152,7 @@
       <workItem from="1715864967922" duration="43000" />
       <workItem from="1716377365762" duration="2604000" />
       <workItem from="1718087009488" duration="2669000" />
-      <workItem from="1718185993775" duration="704000" />
+      <workItem from="1718185993775" duration="1141000" />
     </task>
     <task id="LOCAL-00001" summary=":memo: 기초문제 Day 1 ~ 5">
       <option name="closed" value="true" />
@@ -538,7 +538,15 @@
       <option name="project" value="LOCAL" />
       <updated>1718186588812</updated>
     </task>
-    <option name="localTasksCounter" value="49" />
+    <task id="LOCAL-00049" summary=":memo: 기초문제 Day 16 배열에서 문자열 대소문자 변환하기">
+      <option name="closed" value="true" />
+      <created>1718186837312</created>
+      <option name="number" value="00049" />
+      <option name="presentableId" value="LOCAL-00049" />
+      <option name="project" value="LOCAL" />
+      <updated>1718186837312</updated>
+    </task>
+    <option name="localTasksCounter" value="50" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -556,7 +564,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value=":memo: 기초문제 Day 11 글자 지우기" />
     <MESSAGE value=":memo: 기초문제 Day 11 카운트 다운" />
     <MESSAGE value=":memo: 기초문제 Day 11 가까운 1 찾기" />
     <MESSAGE value=":memo: 기초문제 Day 12 리스트 자르기" />
@@ -581,6 +588,7 @@
     <MESSAGE value=":memo: 기초문제 Day 15 원하는 문자열 찾기" />
     <MESSAGE value=":memo: 기초문제 Day 16 대문자로 바꾸기" />
     <MESSAGE value=":memo: 기초문제 Day 16 소문자로 바꾸기" />
-    <option name="LAST_COMMIT_MESSAGE" value=":memo: 기초문제 Day 16 소문자로 바꾸기" />
+    <MESSAGE value=":memo: 기초문제 Day 16 배열에서 문자열 대소문자 변환하기" />
+    <option name="LAST_COMMIT_MESSAGE" value=":memo: 기초문제 Day 16 배열에서 문자열 대소문자 변환하기" />
   </component>
 </project>
