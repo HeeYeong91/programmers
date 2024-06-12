@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="135563da-75a8-4af9-9025-2d4c919b84c2" name="Changes" comment=":memo: 기초문제 Day 15 길이에 따른 연산" />
+    <list default="true" id="135563da-75a8-4af9-9025-2d4c919b84c2" name="Changes" comment=":memo: 기초문제 Day 15 원하는 문자열 찾기" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -148,7 +148,7 @@
       <workItem from="1715862387748" duration="2144000" />
       <workItem from="1715864967922" duration="43000" />
       <workItem from="1716377365762" duration="2604000" />
-      <workItem from="1718087009488" duration="2462000" />
+      <workItem from="1718087009488" duration="2669000" />
     </task>
     <task id="LOCAL-00001" summary=":memo: 기초문제 Day 1 ~ 5">
       <option name="closed" value="true" />
@@ -510,7 +510,15 @@
       <option name="project" value="LOCAL" />
       <updated>1718090161229</updated>
     </task>
-    <option name="localTasksCounter" value="46" />
+    <task id="LOCAL-00046" summary=":memo: 기초문제 Day 15 원하는 문자열 찾기">
+      <option name="closed" value="true" />
+      <created>1718090403056</created>
+      <option name="number" value="00046" />
+      <option name="presentableId" value="LOCAL-00046" />
+      <option name="project" value="LOCAL" />
+      <updated>1718090403056</updated>
+    </task>
+    <option name="localTasksCounter" value="47" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -528,7 +536,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value=":memo: 기초문제 Day 10 qr code" />
     <MESSAGE value=":memo: 기초문제 Day 11 문자 개수 세기" />
     <MESSAGE value=":memo: 기초문제 Day 11 배열 만들기 1" />
     <MESSAGE value=":memo: 기초문제 Day 11 글자 지우기" />
@@ -553,6 +560,7 @@
     <MESSAGE value=":memo: 기초문제 Day 15 조건에 맞게 수열 변환하기 2" />
     <MESSAGE value=":memo: 기초문제 Day 15 1로 만들기" />
     <MESSAGE value=":memo: 기초문제 Day 15 길이에 따른 연산" />
-    <option name="LAST_COMMIT_MESSAGE" value=":memo: 기초문제 Day 15 길이에 따른 연산" />
+    <MESSAGE value=":memo: 기초문제 Day 15 원하는 문자열 찾기" />
+    <option name="LAST_COMMIT_MESSAGE" value=":memo: 기초문제 Day 15 원하는 문자열 찾기" />
   </component>
 </project>
