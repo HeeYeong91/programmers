@@ -4,8 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="135563da-75a8-4af9-9025-2d4c919b84c2" name="Changes" comment=":memo: 기초문제 Day 16 특정한 문자를 대문자로 바꾸기">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="135563da-75a8-4af9-9025-2d4c919b84c2" name="Changes" comment=":memo: 기초문제 Day 17 특정 문자열로 끝나는 가장 긴 부분 문자열 찾기">
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/basicQuestion/Day_17/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/basicQuestion/Day_17/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/basicQuestion/Day_17/.idea/sonarlint/securityhotspotstore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/basicQuestion/Day_17/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -152,15 +155,7 @@
       <workItem from="1716377365762" duration="2604000" />
       <workItem from="1718087009488" duration="2669000" />
       <workItem from="1718185993775" duration="1481000" />
-      <workItem from="1718277462402" duration="314000" />
-    </task>
-    <task id="LOCAL-00003" summary=":memo: 기초문제 Day 1 ~ 5">
-      <option name="closed" value="true" />
-      <created>1714455484383</created>
-      <option name="number" value="00003" />
-      <option name="presentableId" value="LOCAL-00003" />
-      <option name="project" value="LOCAL" />
-      <updated>1714455484383</updated>
+      <workItem from="1718277462402" duration="690000" />
     </task>
     <task id="LOCAL-00004" summary=":memo: 기초문제 Day 1 ~ 5 다시">
       <option name="closed" value="true" />
@@ -546,7 +541,15 @@
       <option name="project" value="LOCAL" />
       <updated>1718187441419</updated>
     </task>
-    <option name="localTasksCounter" value="52" />
+    <task id="LOCAL-00052" summary=":memo: 기초문제 Day 17 특정 문자열로 끝나는 가장 긴 부분 문자열 찾기">
+      <option name="closed" value="true" />
+      <created>1718277922692</created>
+      <option name="number" value="00052" />
+      <option name="presentableId" value="LOCAL-00052" />
+      <option name="project" value="LOCAL" />
+      <updated>1718277922692</updated>
+    </task>
+    <option name="localTasksCounter" value="53" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -564,7 +567,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value=":memo: 기초문제 Day 12 리스트 자르기" />
     <MESSAGE value=":memo: 기초문제 Day 12 첫 번째로 나오는 음수" />
     <MESSAGE value=":memo: 기초문제 Day 12 배열 만들기 3" />
     <MESSAGE value=":memo: 기초문제 Day 12 2의 영역" />
@@ -589,6 +591,7 @@
     <MESSAGE value=":memo: 기초문제 Day 16 배열에서 문자열 대소문자 변환하기" />
     <MESSAGE value=":memo: 기초문제 Day 16 A 강조하기" />
     <MESSAGE value=":memo: 기초문제 Day 16 특정한 문자를 대문자로 바꾸기" />
-    <option name="LAST_COMMIT_MESSAGE" value=":memo: 기초문제 Day 16 특정한 문자를 대문자로 바꾸기" />
+    <MESSAGE value=":memo: 기초문제 Day 17 특정 문자열로 끝나는 가장 긴 부분 문자열 찾기" />
+    <option name="LAST_COMMIT_MESSAGE" value=":memo: 기초문제 Day 17 특정 문자열로 끝나는 가장 긴 부분 문자열 찾기" />
   </component>
 </project>
