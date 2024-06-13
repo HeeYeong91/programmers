@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="135563da-75a8-4af9-9025-2d4c919b84c2" name="Changes" comment=":memo: 기초문제 Day 17 특정 문자열로 끝나는 가장 긴 부분 문자열 찾기">
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
+    <list default="true" id="135563da-75a8-4af9-9025-2d4c919b84c2" name="Changes" comment=":memo: 기초문제 Day 17 문자열이 몇 번 등장하는지 세기">
       <change beforePath="$PROJECT_DIR$/basicQuestion/Day_17/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/basicQuestion/Day_17/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/basicQuestion/Day_17/.idea/sonarlint/securityhotspotstore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/basicQuestion/Day_17/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
     </list>
@@ -155,15 +153,7 @@
       <workItem from="1716377365762" duration="2604000" />
       <workItem from="1718087009488" duration="2669000" />
       <workItem from="1718185993775" duration="1481000" />
-      <workItem from="1718277462402" duration="690000" />
-    </task>
-    <task id="LOCAL-00004" summary=":memo: 기초문제 Day 1 ~ 5 다시">
-      <option name="closed" value="true" />
-      <created>1714456590212</created>
-      <option name="number" value="00004" />
-      <option name="presentableId" value="LOCAL-00004" />
-      <option name="project" value="LOCAL" />
-      <updated>1714456590212</updated>
+      <workItem from="1718277462402" duration="1041000" />
     </task>
     <task id="LOCAL-00005" summary=":memo: 기초문제 Day 1 ~ 5 다시">
       <option name="closed" value="true" />
@@ -549,7 +539,15 @@
       <option name="project" value="LOCAL" />
       <updated>1718277922692</updated>
     </task>
-    <option name="localTasksCounter" value="53" />
+    <task id="LOCAL-00053" summary=":memo: 기초문제 Day 17 문자열이 몇 번 등장하는지 세기">
+      <option name="closed" value="true" />
+      <created>1718278306831</created>
+      <option name="number" value="00053" />
+      <option name="presentableId" value="LOCAL-00053" />
+      <option name="project" value="LOCAL" />
+      <updated>1718278306831</updated>
+    </task>
+    <option name="localTasksCounter" value="54" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -567,7 +565,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value=":memo: 기초문제 Day 12 첫 번째로 나오는 음수" />
     <MESSAGE value=":memo: 기초문제 Day 12 배열 만들기 3" />
     <MESSAGE value=":memo: 기초문제 Day 12 2의 영역" />
     <MESSAGE value=":memo: 기초문제 Day 12  배열 조각하기" />
@@ -592,6 +589,7 @@
     <MESSAGE value=":memo: 기초문제 Day 16 A 강조하기" />
     <MESSAGE value=":memo: 기초문제 Day 16 특정한 문자를 대문자로 바꾸기" />
     <MESSAGE value=":memo: 기초문제 Day 17 특정 문자열로 끝나는 가장 긴 부분 문자열 찾기" />
-    <option name="LAST_COMMIT_MESSAGE" value=":memo: 기초문제 Day 17 특정 문자열로 끝나는 가장 긴 부분 문자열 찾기" />
+    <MESSAGE value=":memo: 기초문제 Day 17 문자열이 몇 번 등장하는지 세기" />
+    <option name="LAST_COMMIT_MESSAGE" value=":memo: 기초문제 Day 17 문자열이 몇 번 등장하는지 세기" />
   </component>
 </project>
