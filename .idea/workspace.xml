@@ -4,9 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="135563da-75a8-4af9-9025-2d4c919b84c2" name="Changes" comment=":memo: 기초문제 Day 17 공백으로 구분하기 1">
-      <change beforePath="$PROJECT_DIR$/basicQuestion/Day_17/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/basicQuestion/Day_17/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/basicQuestion/Day_17/.idea/sonarlint/securityhotspotstore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/basicQuestion/Day_17/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
+    <list default="true" id="135563da-75a8-4af9-9025-2d4c919b84c2" name="Changes" comment=":memo: 기초문제 Day 17 공백으로 구분하기 2">
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -153,15 +154,8 @@
       <workItem from="1716377365762" duration="2604000" />
       <workItem from="1718087009488" duration="2669000" />
       <workItem from="1718185993775" duration="1481000" />
-      <workItem from="1718277462402" duration="1985000" />
-    </task>
-    <task id="LOCAL-00007" summary=":memo: 기초문제 Day 6 마지막 두 원소">
-      <option name="closed" value="true" />
-      <created>1714551861441</created>
-      <option name="number" value="00007" />
-      <option name="presentableId" value="LOCAL-00007" />
-      <option name="project" value="LOCAL" />
-      <updated>1714551861441</updated>
+      <workItem from="1718277462402" duration="2068000" />
+      <workItem from="1718368017184" duration="597000" />
     </task>
     <task id="LOCAL-00008" summary=":memo: 기초문제 Day 6 수 조작하기 1">
       <option name="closed" value="true" />
@@ -547,7 +541,15 @@
       <option name="project" value="LOCAL" />
       <updated>1718278902551</updated>
     </task>
-    <option name="localTasksCounter" value="56" />
+    <task id="LOCAL-00056" summary=":memo: 기초문제 Day 17 공백으로 구분하기 2">
+      <option name="closed" value="true" />
+      <created>1718279572093</created>
+      <option name="number" value="00056" />
+      <option name="presentableId" value="LOCAL-00056" />
+      <option name="project" value="LOCAL" />
+      <updated>1718279572093</updated>
+    </task>
+    <option name="localTasksCounter" value="57" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -565,7 +567,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value=":memo: 기초문제 Day 12  배열 조각하기" />
     <MESSAGE value=":memo: 기초문제 Day 13 n 번째 원소부터" />
     <MESSAGE value=":memo: 기초문제 Day 13 순서 바꾸기" />
     <MESSAGE value=":memo: 기초문제 Day 13 왼쪽 오른쪽" />
@@ -590,6 +591,7 @@
     <MESSAGE value=":memo: 기초문제 Day 17 문자열이 몇 번 등장하는지 세기" />
     <MESSAGE value=":memo: 기초문제 Day 17 ad 제거하기" />
     <MESSAGE value=":memo: 기초문제 Day 17 공백으로 구분하기 1" />
-    <option name="LAST_COMMIT_MESSAGE" value=":memo: 기초문제 Day 17 공백으로 구분하기 1" />
+    <MESSAGE value=":memo: 기초문제 Day 17 공백으로 구분하기 2" />
+    <option name="LAST_COMMIT_MESSAGE" value=":memo: 기초문제 Day 17 공백으로 구분하기 2" />
   </component>
 </project>
