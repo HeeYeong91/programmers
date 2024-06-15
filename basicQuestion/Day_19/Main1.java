@@ -1,5 +1,9 @@
 import java.util.LinkedList;
 
+/**
+ * 코딩 기초 트레이닝 Day 19
+ * 세 개의 구분자
+ */
 public class Main1 {
     public static void main(String[] args) {
         String[] result = solution("baconlettucetomato");
