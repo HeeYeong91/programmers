@@ -287,3 +287,9 @@ O
 basicQuestion/Day_19/Main3.java,2\7\2729c5c6a8ef6decad3a364c35121f0d72429e43
 Œ
 \basicQuestion/Day_19/.idea/sonarlint/issuestore/a/9/a9d2be3bd230c46b86f04d8d7250f088545c7a15,8\2\82bd8cee729d774deba2f0cbc7a2cc955d9f9292
+–
+fbasicQuestion/Day_19/.idea/sonarlint/securityhotspotstore/4/7/475bf0dcc22352aa8e26db3057bbc61619ac2417,6\d\6d409adfe14eb6eed203d593d14c15673f9d0daf
+Œ
+\basicQuestion/Day_19/.idea/sonarlint/issuestore/4/7/475bf0dcc22352aa8e26db3057bbc61619ac2417,2\2\2202991a1ce5b0174194f7973fa76873911848b3
+O
+basicQuestion/Day_19/Main4.java,4\c\4cd2a9dfdcae614461ddaaf0094c435cb86fbddd
