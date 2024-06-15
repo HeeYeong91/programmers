@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="135563da-75a8-4af9-9025-2d4c919b84c2" name="Changes" comment=":memo: 기초문제 Day 18 rny_string">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="135563da-75a8-4af9-9025-2d4c919b84c2" name="Changes" comment=":memo: 기초문제 Day 19 세 개의 구분자">
+      <change beforePath="$PROJECT_DIR$/basicQuestion/Day_19/.idea/sonarlint/issuestore/0/d/0d26f9d1452d0ef580b37f42842f0cc996bb3754" beforeDir="false" afterPath="$PROJECT_DIR$/basicQuestion/Day_19/.idea/sonarlint/issuestore/0/d/0d26f9d1452d0ef580b37f42842f0cc996bb3754" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -155,23 +155,7 @@
       <workItem from="1718277462402" duration="2068000" />
       <workItem from="1718368017184" duration="2084000" />
       <workItem from="1718370827777" duration="18000" />
-      <workItem from="1718454450368" duration="591000" />
-    </task>
-    <task id="LOCAL-00013" summary=":memo: 기초문제 Day 9 부분 문자열 이어 붙여 문자열 만들기">
-      <option name="closed" value="true" />
-      <created>1714902030940</created>
-      <option name="number" value="00013" />
-      <option name="presentableId" value="LOCAL-00013" />
-      <option name="project" value="LOCAL" />
-      <updated>1714902030940</updated>
-    </task>
-    <task id="LOCAL-00014" summary=":memo: 기초문제 Day 9 문자열의 뒤의 n글자">
-      <option name="closed" value="true" />
-      <created>1714902344169</created>
-      <option name="number" value="00014" />
-      <option name="presentableId" value="LOCAL-00014" />
-      <option name="project" value="LOCAL" />
-      <updated>1714902344169</updated>
+      <workItem from="1718454450368" duration="891000" />
     </task>
     <task id="LOCAL-00015" summary=":memo: 기초문제 Day 9 접미사 배열">
       <option name="closed" value="true" />
@@ -549,7 +533,23 @@
       <option name="project" value="LOCAL" />
       <updated>1718370471220</updated>
     </task>
-    <option name="localTasksCounter" value="62" />
+    <task id="LOCAL-00062" summary=":memo: 기초문제 Day 19 세 개의 구분자">
+      <option name="closed" value="true" />
+      <created>1718455177261</created>
+      <option name="number" value="00062" />
+      <option name="presentableId" value="LOCAL-00062" />
+      <option name="project" value="LOCAL" />
+      <updated>1718455177262</updated>
+    </task>
+    <task id="LOCAL-00063" summary=":memo: 기초문제 Day 19 세 개의 구분자">
+      <option name="closed" value="true" />
+      <created>1718455225676</created>
+      <option name="number" value="00063" />
+      <option name="presentableId" value="LOCAL-00063" />
+      <option name="project" value="LOCAL" />
+      <updated>1718455225676</updated>
+    </task>
+    <option name="localTasksCounter" value="64" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -567,7 +567,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value=":memo: 기초문제 Day 14 홀수 vs 짝수" />
     <MESSAGE value=":memo: 기초문제 Day 14 5명씩" />
     <MESSAGE value=":memo: 기초문제 Day 14 할 일 목록" />
     <MESSAGE value=":memo: 기초문제 Day 14 n보다 커질 때까지 더하기" />
@@ -592,6 +591,7 @@
     <MESSAGE value=":memo: 기초문제 Day 18 간단한 식 계산하기" />
     <MESSAGE value=":memo: 기초문제 Day 18 문자열 바꿔서 찾기" />
     <MESSAGE value=":memo: 기초문제 Day 18 rny_string" />
-    <option name="LAST_COMMIT_MESSAGE" value=":memo: 기초문제 Day 18 rny_string" />
+    <MESSAGE value=":memo: 기초문제 Day 19 세 개의 구분자" />
+    <option name="LAST_COMMIT_MESSAGE" value=":memo: 기초문제 Day 19 세 개의 구분자" />
   </component>
 </project>
