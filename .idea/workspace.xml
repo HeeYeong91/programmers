@@ -4,7 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="135563da-75a8-4af9-9025-2d4c919b84c2" name="Changes" comment=":memo: 기초문제 Day 20 뒤에서 5등까지" />
+    <list default="true" id="135563da-75a8-4af9-9025-2d4c919b84c2" name="Changes" comment=":memo: 기초문제 Day 21 뒤에서 5등 위로">
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/basicQuestion/Day_21/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/basicQuestion/Day_21/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/basicQuestion/Day_21/.idea/sonarlint/securityhotspotstore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/basicQuestion/Day_21/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -155,14 +161,7 @@
       <workItem from="1718370827777" duration="18000" />
       <workItem from="1718454450368" duration="2655000" />
       <workItem from="1718520321323" duration="3026000" />
-    </task>
-    <task id="LOCAL-00025" summary=":memo: 기초문제 Day 11 카운트 다운">
-      <option name="closed" value="true" />
-      <created>1715338066297</created>
-      <option name="number" value="00025" />
-      <option name="presentableId" value="LOCAL-00025" />
-      <option name="project" value="LOCAL" />
-      <updated>1715338066297</updated>
+      <workItem from="1718627259526" duration="935000" />
     </task>
     <task id="LOCAL-00026" summary=":memo: 기초문제 Day 11 가까운 1 찾기">
       <option name="closed" value="true" />
@@ -548,7 +547,15 @@
       <option name="project" value="LOCAL" />
       <updated>1718526182119</updated>
     </task>
-    <option name="localTasksCounter" value="74" />
+    <task id="LOCAL-00074" summary=":memo: 기초문제 Day 21 뒤에서 5등 위로">
+      <option name="closed" value="true" />
+      <created>1718627598471</created>
+      <option name="number" value="00074" />
+      <option name="presentableId" value="LOCAL-00074" />
+      <option name="project" value="LOCAL" />
+      <updated>1718627598471</updated>
+    </task>
+    <option name="localTasksCounter" value="75" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -566,7 +573,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value=":memo: 기초문제 Day 16 대문자로 바꾸기" />
     <MESSAGE value=":memo: 기초문제 Day 16 소문자로 바꾸기" />
     <MESSAGE value=":memo: 기초문제 Day 16 배열에서 문자열 대소문자 변환하기" />
     <MESSAGE value=":memo: 기초문제 Day 16 A 강조하기" />
@@ -591,6 +597,7 @@
     <MESSAGE value=":memo: 기초문제 Day 20 문자열 묶기" />
     <MESSAGE value=":memo: 기초문제 Day 20 배열의 길이에 따라 다른 연산하기" />
     <MESSAGE value=":memo: 기초문제 Day 20 뒤에서 5등까지" />
-    <option name="LAST_COMMIT_MESSAGE" value=":memo: 기초문제 Day 20 뒤에서 5등까지" />
+    <MESSAGE value=":memo: 기초문제 Day 21 뒤에서 5등 위로" />
+    <option name="LAST_COMMIT_MESSAGE" value=":memo: 기초문제 Day 21 뒤에서 5등 위로" />
   </component>
 </project>
