@@ -4,10 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="135563da-75a8-4af9-9025-2d4c919b84c2" name="Changes" comment=":memo: 기초문제 Day 21 문자열을 정수로 변환하기">
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="135563da-75a8-4af9-9025-2d4c919b84c2" name="Changes" comment=":memo: 기초문제 Day 22 0 떼기">
+      <change beforePath="$PROJECT_DIR$/basicQuestion/Day_22/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/basicQuestion/Day_22/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/basicQuestion/Day_22/.idea/sonarlint/securityhotspotstore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/basicQuestion/Day_22/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -160,15 +159,7 @@
       <workItem from="1718454450368" duration="2655000" />
       <workItem from="1718520321323" duration="3026000" />
       <workItem from="1718627259526" duration="1611000" />
-      <workItem from="1718692362863" duration="389000" />
-    </task>
-    <task id="LOCAL-00030" summary=":memo: 기초문제 Day 12 2의 영역">
-      <option name="closed" value="true" />
-      <created>1715585865951</created>
-      <option name="number" value="00030" />
-      <option name="presentableId" value="LOCAL-00030" />
-      <option name="project" value="LOCAL" />
-      <updated>1715585865951</updated>
+      <workItem from="1718692362863" duration="705000" />
     </task>
     <task id="LOCAL-00031" summary=":memo: 기초문제 Day 12  배열 조각하기">
       <option name="closed" value="true" />
@@ -554,7 +545,15 @@
       <option name="project" value="LOCAL" />
       <updated>1718629551898</updated>
     </task>
-    <option name="localTasksCounter" value="79" />
+    <task id="LOCAL-00079" summary=":memo: 기초문제 Day 22 0 떼기">
+      <option name="closed" value="true" />
+      <created>1718692805384</created>
+      <option name="number" value="00079" />
+      <option name="presentableId" value="LOCAL-00079" />
+      <option name="project" value="LOCAL" />
+      <updated>1718692805385</updated>
+    </task>
+    <option name="localTasksCounter" value="80" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -572,7 +571,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value=":memo: 기초문제 Day 17 특정 문자열로 끝나는 가장 긴 부분 문자열 찾기" />
     <MESSAGE value=":memo: 기초문제 Day 17 문자열이 몇 번 등장하는지 세기" />
     <MESSAGE value=":memo: 기초문제 Day 17 ad 제거하기" />
     <MESSAGE value=":memo: 기초문제 Day 17 공백으로 구분하기 1" />
@@ -597,6 +595,7 @@
     <MESSAGE value=":memo: 기초문제 Day 21 정수 부분" />
     <MESSAGE value=":memo: 기초문제 Day 21 문자열 정수의 합" />
     <MESSAGE value=":memo: 기초문제 Day 21 문자열을 정수로 변환하기" />
-    <option name="LAST_COMMIT_MESSAGE" value=":memo: 기초문제 Day 21 문자열을 정수로 변환하기" />
+    <MESSAGE value=":memo: 기초문제 Day 22 0 떼기" />
+    <option name="LAST_COMMIT_MESSAGE" value=":memo: 기초문제 Day 22 0 떼기" />
   </component>
 </project>
