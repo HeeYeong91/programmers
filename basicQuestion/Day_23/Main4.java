@@ -1,6 +1,6 @@
 /**
  * 코딩 기초 트레이닝 Day 23
- * 정수 찾기
+ * 주사위 게임 1
  */
 public class Main4 {
     public static void main(String[] args) {

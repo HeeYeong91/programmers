@@ -415,3 +415,9 @@ O
 basicQuestion/Day_23/Main3.java,c\e\ce3fdc8f73233c76195af00263ceb6cb72324186
 Œ
 \basicQuestion/Day_23/.idea/sonarlint/issuestore/a/9/a9d2be3bd230c46b86f04d8d7250f088545c7a15,8\8\88e524fbb5da778ba5f040d68b9b0b237c0ce7f4
+–
+fbasicQuestion/Day_23/.idea/sonarlint/securityhotspotstore/4/7/475bf0dcc22352aa8e26db3057bbc61619ac2417,9\3\93c527b457e7b4dcfba0c6c3a57a1f6c64d566d0
+Œ
+\basicQuestion/Day_23/.idea/sonarlint/issuestore/4/7/475bf0dcc22352aa8e26db3057bbc61619ac2417,5\a\5a39a88b49c5030f3c7e7be29c66099c99713c3e
+O
+basicQuestion/Day_23/Main4.java,f\6\f6596025dbb845caf07181591b59f4d2f1e7ef01
