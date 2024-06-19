@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="135563da-75a8-4af9-9025-2d4c919b84c2" name="Changes" comment=":memo: 기초문제 Day 23 꼬리 문자열">
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
+    <list default="true" id="135563da-75a8-4af9-9025-2d4c919b84c2" name="Changes" comment=":memo: 기초문제 Day 23 정수 찾기">
       <change beforePath="$PROJECT_DIR$/basicQuestion/Day_23/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/basicQuestion/Day_23/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/basicQuestion/Day_23/.idea/sonarlint/securityhotspotstore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/basicQuestion/Day_23/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
     </list>
@@ -162,15 +160,7 @@
       <workItem from="1718520321323" duration="3026000" />
       <workItem from="1718627259526" duration="1611000" />
       <workItem from="1718692362863" duration="2025000" />
-      <workItem from="1718755382752" duration="703000" />
-    </task>
-    <task id="LOCAL-00038" summary=":memo: 기초문제 Day 14 5명씩">
-      <option name="closed" value="true" />
-      <created>1716378272436</created>
-      <option name="number" value="00038" />
-      <option name="presentableId" value="LOCAL-00038" />
-      <option name="project" value="LOCAL" />
-      <updated>1716378272436</updated>
+      <workItem from="1718755382752" duration="1012000" />
     </task>
     <task id="LOCAL-00039" summary=":memo: 기초문제 Day 14 할 일 목록">
       <option name="closed" value="true" />
@@ -556,7 +546,15 @@
       <option name="project" value="LOCAL" />
       <updated>1718755830493</updated>
     </task>
-    <option name="localTasksCounter" value="87" />
+    <task id="LOCAL-00087" summary=":memo: 기초문제 Day 23 정수 찾기">
+      <option name="closed" value="true" />
+      <created>1718756212711</created>
+      <option name="number" value="00087" />
+      <option name="presentableId" value="LOCAL-00087" />
+      <option name="project" value="LOCAL" />
+      <updated>1718756212712</updated>
+    </task>
+    <option name="localTasksCounter" value="88" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -574,7 +572,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value=":memo: 기초문제 Day 18 간단한 식 계산하기" />
     <MESSAGE value=":memo: 기초문제 Day 18 문자열 바꿔서 찾기" />
     <MESSAGE value=":memo: 기초문제 Day 18 rny_string" />
     <MESSAGE value=":memo: 기초문제 Day 19 세 개의 구분자" />
@@ -599,6 +596,7 @@
     <MESSAGE value=":memo: 기초문제 Day 22 부분 문자열인지 확인하기" />
     <MESSAGE value=":memo: 기초문제 Day 23 부분 문자열" />
     <MESSAGE value=":memo: 기초문제 Day 23 꼬리 문자열" />
-    <option name="LAST_COMMIT_MESSAGE" value=":memo: 기초문제 Day 23 꼬리 문자열" />
+    <MESSAGE value=":memo: 기초문제 Day 23 정수 찾기" />
+    <option name="LAST_COMMIT_MESSAGE" value=":memo: 기초문제 Day 23 정수 찾기" />
   </component>
 </project>
