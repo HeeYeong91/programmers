@@ -445,3 +445,15 @@ O
 fbasicQuestion/Day_24/.idea/sonarlint/securityhotspotstore/a/9/a9d2be3bd230c46b86f04d8d7250f088545c7a15,6\6\6670c7fd265772acb62a7404177d3c76a98e958e
 Œ
 \basicQuestion/Day_24/.idea/sonarlint/issuestore/a/9/a9d2be3bd230c46b86f04d8d7250f088545c7a15,e\4\e4b3c07e5672a6138e232b03d0c0d42f1b59a242
+O
+basicQuestion/Day_24/Main4.java,f\6\f6548db5bdb0646dba50e59f62b23aaa5d0cd75e
+–
+fbasicQuestion/Day_24/.idea/sonarlint/securityhotspotstore/4/7/475bf0dcc22352aa8e26db3057bbc61619ac2417,f\1\f1357a71e756f3f05e001716a256539ea8dc7df7
+Œ
+\basicQuestion/Day_24/.idea/sonarlint/issuestore/4/7/475bf0dcc22352aa8e26db3057bbc61619ac2417,2\e\2eb315b527fbb36681fb6b8c6e36cb6549e57508
+O
+basicQuestion/Day_24/Main5.java,7\1\71beca39b9dc801f2c732c2e5b75d86c225c3bd6
+Œ
+\basicQuestion/Day_24/.idea/sonarlint/issuestore/5/f/5f63f0598426f958f0640b369868282f44d8ce48,1\a\1a7be713efcb1aed3047c1e8eb06baa273c88e13
+–
+fbasicQuestion/Day_24/.idea/sonarlint/securityhotspotstore/5/f/5f63f0598426f958f0640b369868282f44d8ce48,5\4\54f0e7280ed0442c0fbb982eb648b9b4308f26a2
