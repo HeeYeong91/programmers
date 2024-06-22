@@ -4,8 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="135563da-75a8-4af9-9025-2d4c919b84c2" name="Changes" comment=":memo: 기초문제 Day 25 이차원 배열 대각선 순회하기">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="135563da-75a8-4af9-9025-2d4c919b84c2" name="Changes" comment=":memo: 입문문제 Day 1 두 수의 곱">
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/introductionQuestion/Day_1/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/introductionQuestion/Day_1/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/introductionQuestion/Day_1/.idea/sonarlint/securityhotspotstore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/introductionQuestion/Day_1/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -162,31 +165,7 @@
       <workItem from="1718755382752" duration="1537000" />
       <workItem from="1718853689343" duration="2114000" />
       <workItem from="1718953739854" duration="2789000" />
-      <workItem from="1719055290778" duration="310000" />
-    </task>
-    <task id="LOCAL-00051" summary=":memo: 기초문제 Day 16 특정한 문자를 대문자로 바꾸기">
-      <option name="closed" value="true" />
-      <created>1718187441419</created>
-      <option name="number" value="00051" />
-      <option name="presentableId" value="LOCAL-00051" />
-      <option name="project" value="LOCAL" />
-      <updated>1718187441419</updated>
-    </task>
-    <task id="LOCAL-00052" summary=":memo: 기초문제 Day 17 특정 문자열로 끝나는 가장 긴 부분 문자열 찾기">
-      <option name="closed" value="true" />
-      <created>1718277922692</created>
-      <option name="number" value="00052" />
-      <option name="presentableId" value="LOCAL-00052" />
-      <option name="project" value="LOCAL" />
-      <updated>1718277922692</updated>
-    </task>
-    <task id="LOCAL-00053" summary=":memo: 기초문제 Day 17 문자열이 몇 번 등장하는지 세기">
-      <option name="closed" value="true" />
-      <created>1718278306831</created>
-      <option name="number" value="00053" />
-      <option name="presentableId" value="LOCAL-00053" />
-      <option name="project" value="LOCAL" />
-      <updated>1718278306831</updated>
+      <workItem from="1719055290778" duration="609000" />
     </task>
     <task id="LOCAL-00054" summary=":memo: 기초문제 Day 17 ad 제거하기">
       <option name="closed" value="true" />
@@ -556,7 +535,31 @@
       <option name="project" value="LOCAL" />
       <updated>1718956491757</updated>
     </task>
-    <option name="localTasksCounter" value="100" />
+    <task id="LOCAL-00100" summary=":memo: 입문문제 Day 1 두 수의 합">
+      <option name="closed" value="true" />
+      <created>1719055694904</created>
+      <option name="number" value="00100" />
+      <option name="presentableId" value="LOCAL-00100" />
+      <option name="project" value="LOCAL" />
+      <updated>1719055694904</updated>
+    </task>
+    <task id="LOCAL-00101" summary=":memo: 입문문제 Day 1 두 수의 차">
+      <option name="closed" value="true" />
+      <created>1719055772797</created>
+      <option name="number" value="00101" />
+      <option name="presentableId" value="LOCAL-00101" />
+      <option name="project" value="LOCAL" />
+      <updated>1719055772797</updated>
+    </task>
+    <task id="LOCAL-00102" summary=":memo: 입문문제 Day 1 두 수의 곱">
+      <option name="closed" value="true" />
+      <created>1719055858357</created>
+      <option name="number" value="00102" />
+      <option name="presentableId" value="LOCAL-00102" />
+      <option name="project" value="LOCAL" />
+      <updated>1719055858357</updated>
+    </task>
+    <option name="localTasksCounter" value="103" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -574,9 +577,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value=":memo: 기초문제 Day 20 뒤에서 5등까지" />
-    <MESSAGE value=":memo: 기초문제 Day 21 뒤에서 5등 위로" />
-    <MESSAGE value=":memo: 기초문제 Day 21 전국 대회 선발 고사" />
     <MESSAGE value=":memo: 기초문제 Day 21 정수 부분" />
     <MESSAGE value=":memo: 기초문제 Day 21 문자열 정수의 합" />
     <MESSAGE value=":memo: 기초문제 Day 21 문자열을 정수로 변환하기" />
@@ -599,6 +599,9 @@
     <MESSAGE value=":memo: 기초문제 Day 25 특별한 이차원 배열 2" />
     <MESSAGE value=":memo: 기초문제 Day 25 정사각형으로 만들기" />
     <MESSAGE value=":memo: 기초문제 Day 25 이차원 배열 대각선 순회하기" />
-    <option name="LAST_COMMIT_MESSAGE" value=":memo: 기초문제 Day 25 이차원 배열 대각선 순회하기" />
+    <MESSAGE value=":memo: 입문문제 Day 1 두 수의 합" />
+    <MESSAGE value=":memo: 입문문제 Day 1 두 수의 차" />
+    <MESSAGE value=":memo: 입문문제 Day 1 두 수의 곱" />
+    <option name="LAST_COMMIT_MESSAGE" value=":memo: 입문문제 Day 1 두 수의 곱" />
   </component>
 </project>
