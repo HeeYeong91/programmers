@@ -4,11 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="135563da-75a8-4af9-9025-2d4c919b84c2" name="Changes" comment=":memo: 입문문제 Day 1 두 수의 곱">
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/introductionQuestion/Day_1/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/introductionQuestion/Day_1/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/introductionQuestion/Day_1/.idea/sonarlint/securityhotspotstore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/introductionQuestion/Day_1/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
+    <list default="true" id="135563da-75a8-4af9-9025-2d4c919b84c2" name="Changes" comment=":memo: 입문문제 Day 1 몫 구하기">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -165,15 +162,8 @@
       <workItem from="1718755382752" duration="1537000" />
       <workItem from="1718853689343" duration="2114000" />
       <workItem from="1718953739854" duration="2789000" />
-      <workItem from="1719055290778" duration="609000" />
-    </task>
-    <task id="LOCAL-00054" summary=":memo: 기초문제 Day 17 ad 제거하기">
-      <option name="closed" value="true" />
-      <created>1718278689659</created>
-      <option name="number" value="00054" />
-      <option name="presentableId" value="LOCAL-00054" />
-      <option name="project" value="LOCAL" />
-      <updated>1718278689659</updated>
+      <workItem from="1719055290778" duration="1299000" />
+      <workItem from="1719127054968" duration="602000" />
     </task>
     <task id="LOCAL-00055" summary=":memo: 기초문제 Day 17 공백으로 구분하기 1">
       <option name="closed" value="true" />
@@ -559,7 +549,15 @@
       <option name="project" value="LOCAL" />
       <updated>1719055858357</updated>
     </task>
-    <option name="localTasksCounter" value="103" />
+    <task id="LOCAL-00103" summary=":memo: 입문문제 Day 1 몫 구하기">
+      <option name="closed" value="true" />
+      <created>1719055981037</created>
+      <option name="number" value="00103" />
+      <option name="presentableId" value="LOCAL-00103" />
+      <option name="project" value="LOCAL" />
+      <updated>1719055981037</updated>
+    </task>
+    <option name="localTasksCounter" value="104" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -577,7 +575,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value=":memo: 기초문제 Day 21 정수 부분" />
     <MESSAGE value=":memo: 기초문제 Day 21 문자열 정수의 합" />
     <MESSAGE value=":memo: 기초문제 Day 21 문자열을 정수로 변환하기" />
     <MESSAGE value=":memo: 기초문제 Day 22 0 떼기" />
@@ -602,6 +599,7 @@
     <MESSAGE value=":memo: 입문문제 Day 1 두 수의 합" />
     <MESSAGE value=":memo: 입문문제 Day 1 두 수의 차" />
     <MESSAGE value=":memo: 입문문제 Day 1 두 수의 곱" />
-    <option name="LAST_COMMIT_MESSAGE" value=":memo: 입문문제 Day 1 두 수의 곱" />
+    <MESSAGE value=":memo: 입문문제 Day 1 몫 구하기" />
+    <option name="LAST_COMMIT_MESSAGE" value=":memo: 입문문제 Day 1 몫 구하기" />
   </component>
 </project>
