@@ -561,3 +561,7 @@ lintroductionQuestion/Day_3/.idea/sonarlint/securityhotspotstore/a/9/a9d2be3bd23
 bintroductionQuestion/Day_3/.idea/sonarlint/issuestore/a/9/a9d2be3bd230c46b86f04d8d7250f088545c7a15,5\7\578436fb82531a42213a3894bd08eeca01309f7c
 U
 %introductionQuestion/Day_3/Main3.java,4\7\47cb76aae0709556e0fd03c192c2bb136a6d8f2e
+œ
+lintroductionQuestion/Day_3/.idea/sonarlint/securityhotspotstore/4/7/475bf0dcc22352aa8e26db3057bbc61619ac2417,7\8\78b60eb2f77b1ee854ae4d7fda31cafd20dc12e1
+U
+%introductionQuestion/Day_3/Main4.java,8\d\8d4a3693da2b97ff9ba5cd882e83ae5037f8f3f0

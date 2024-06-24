@@ -1,5 +1,3 @@
-import java.util.stream.IntStream;
-
 /**
  * 코딩테스트 입문 Day 3 사칙연산, 배열, 수학
  * 최빈값 구하기
