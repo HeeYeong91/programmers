@@ -1,0 +1,7 @@
+
+m	java:S106	"+Replace this use of System.out by a logger.(ç„Â¤8òµÙ¼„2J$6526722d-4344-403f-aeee-ebfb4fabdcc6
+r	java:S106
+"+Replace this use of System.out by a logger.(±«‡¢þÿÿÿÿ8ÊˆÚ¼„2J$d4d9f75a-dcd5-4e6b-97ab-e14dfb643812
+m	java:S106"+Replace this use of System.out by a logger.(½øØé8ÊˆÚ¼„2J$009e0f53-2f7b-46f4-96a3-aed63a4d3598
+
+java:S1128"7Remove this unused import 'java.util.stream.IntStream'.(ÙÉ½Ÿùÿÿÿÿ8÷µÙ¼„2J$f401cd31-361f-427f-9252-f68e96d1a4fc

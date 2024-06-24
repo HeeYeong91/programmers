@@ -4,11 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="135563da-75a8-4af9-9025-2d4c919b84c2" name="Changes" comment=":memo: 입문문제 Day 3 중앙값 구하기">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/introductionQuestion/Day_3/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/introductionQuestion/Day_3/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/introductionQuestion/Day_3/.idea/sonarlint/securityhotspotstore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/introductionQuestion/Day_3/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
-    </list>
+    <list default="true" id="135563da-75a8-4af9-9025-2d4c919b84c2" name="Changes" comment=":memo: 입문문제 Day 3 짝수는 싫어요" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -119,23 +115,7 @@
       <workItem from="1718953739854" duration="2789000" />
       <workItem from="1719055290778" duration="1299000" />
       <workItem from="1719127054968" duration="1698000" />
-      <workItem from="1719185321462" duration="1149000" />
-    </task>
-    <task id="LOCAL-00061" summary=":memo: 기초문제 Day 18 rny_string">
-      <option name="closed" value="true" />
-      <created>1718370471220</created>
-      <option name="number" value="00061" />
-      <option name="presentableId" value="LOCAL-00061" />
-      <option name="project" value="LOCAL" />
-      <updated>1718370471220</updated>
-    </task>
-    <task id="LOCAL-00062" summary=":memo: 기초문제 Day 19 세 개의 구분자">
-      <option name="closed" value="true" />
-      <created>1718455177261</created>
-      <option name="number" value="00062" />
-      <option name="presentableId" value="LOCAL-00062" />
-      <option name="project" value="LOCAL" />
-      <updated>1718455177262</updated>
+      <workItem from="1719185321462" duration="1364000" />
     </task>
     <task id="LOCAL-00063" summary=":memo: 기초문제 Day 19 세 개의 구분자">
       <option name="closed" value="true" />
@@ -513,7 +493,23 @@
       <option name="project" value="LOCAL" />
       <updated>1719185871084</updated>
     </task>
-    <option name="localTasksCounter" value="110" />
+    <task id="LOCAL-00110" summary=":memo: 입문문제 Day 3 최빈값 구하기">
+      <option name="closed" value="true" />
+      <created>1719187604384</created>
+      <option name="number" value="00110" />
+      <option name="presentableId" value="LOCAL-00110" />
+      <option name="project" value="LOCAL" />
+      <updated>1719187604384</updated>
+    </task>
+    <task id="LOCAL-00111" summary=":memo: 입문문제 Day 3 짝수는 싫어요">
+      <option name="closed" value="true" />
+      <created>1719187782336</created>
+      <option name="number" value="00111" />
+      <option name="presentableId" value="LOCAL-00111" />
+      <option name="project" value="LOCAL" />
+      <updated>1719187782337</updated>
+    </task>
+    <option name="localTasksCounter" value="112" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -531,8 +527,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value=":memo: 기초문제 Day 22 부분 문자열인지 확인하기" />
-    <MESSAGE value=":memo: 기초문제 Day 23 부분 문자열" />
     <MESSAGE value=":memo: 기초문제 Day 23 꼬리 문자열" />
     <MESSAGE value=":memo: 기초문제 Day 23 정수 찾기" />
     <MESSAGE value=":memo: 기초문제 Day 23 주사위 게임 1" />
@@ -556,6 +550,8 @@
     <MESSAGE value=":memo: 입문문제 Day 2 배열 두 배 만들기" />
     <MESSAGE value=":memo: 입문문제 Day 3 나머지 구하기" />
     <MESSAGE value=":memo: 입문문제 Day 3 중앙값 구하기" />
-    <option name="LAST_COMMIT_MESSAGE" value=":memo: 입문문제 Day 3 중앙값 구하기" />
+    <MESSAGE value=":memo: 입문문제 Day 3 최빈값 구하기" />
+    <MESSAGE value=":memo: 입문문제 Day 3 짝수는 싫어요" />
+    <option name="LAST_COMMIT_MESSAGE" value=":memo: 입문문제 Day 3 짝수는 싫어요" />
   </component>
 </project>
