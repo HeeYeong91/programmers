@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="135563da-75a8-4af9-9025-2d4c919b84c2" name="Changes" comment=":memo: 입문문제 Day 4 피자 나눠 먹기 (1)">
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
+    <list default="true" id="135563da-75a8-4af9-9025-2d4c919b84c2" name="Changes" comment=":memo: 입문문제 Day 4 피자 나눠 먹기 (2)">
       <change beforePath="$PROJECT_DIR$/introductionQuestion/Day_4/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/introductionQuestion/Day_4/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/introductionQuestion/Day_4/.idea/sonarlint/securityhotspotstore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/introductionQuestion/Day_4/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
     </list>
@@ -123,15 +121,7 @@
       <workItem from="1719185321462" duration="1364000" />
       <workItem from="1719187982167" duration="40000" />
       <workItem from="1719188039314" duration="30000" />
-      <workItem from="1719288537319" duration="801000" />
-    </task>
-    <task id="LOCAL-00066" summary=":memo: 기초문제 Day 19 배열 만들기 6">
-      <option name="closed" value="true" />
-      <created>1718457752625</created>
-      <option name="number" value="00066" />
-      <option name="presentableId" value="LOCAL-00066" />
-      <option name="project" value="LOCAL" />
-      <updated>1718457752625</updated>
+      <workItem from="1719288537319" duration="1260000" />
     </task>
     <task id="LOCAL-00067" summary=":memo: 기초문제 Day 19 무작위로 K개의 수 뽑기">
       <option name="closed" value="true" />
@@ -517,7 +507,15 @@
       <option name="project" value="LOCAL" />
       <updated>1719289040230</updated>
     </task>
-    <option name="localTasksCounter" value="115" />
+    <task id="LOCAL-00115" summary=":memo: 입문문제 Day 4 피자 나눠 먹기 (2)">
+      <option name="closed" value="true" />
+      <created>1719289413341</created>
+      <option name="number" value="00115" />
+      <option name="presentableId" value="LOCAL-00115" />
+      <option name="project" value="LOCAL" />
+      <updated>1719289413341</updated>
+    </task>
+    <option name="localTasksCounter" value="116" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -535,7 +533,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value=":memo: 기초문제 Day 23 주사위 게임 1" />
     <MESSAGE value=":memo: 기초문제 Day 23 날짜 비교하기" />
     <MESSAGE value=":memo: 기초문제 Day 24 커피 심부름" />
     <MESSAGE value=":memo: 기초문제 Day 24 그림 확대" />
@@ -560,6 +557,7 @@
     <MESSAGE value=":memo: 입문문제 Day 3 짝수는 싫어요" />
     <MESSAGE value=":memo: 입문문제 Day 3 짝수는 싫어요 수정" />
     <MESSAGE value=":memo: 입문문제 Day 4 피자 나눠 먹기 (1)" />
-    <option name="LAST_COMMIT_MESSAGE" value=":memo: 입문문제 Day 4 피자 나눠 먹기 (1)" />
+    <MESSAGE value=":memo: 입문문제 Day 4 피자 나눠 먹기 (2)" />
+    <option name="LAST_COMMIT_MESSAGE" value=":memo: 입문문제 Day 4 피자 나눠 먹기 (2)" />
   </component>
 </project>
