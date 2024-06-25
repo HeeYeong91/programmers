@@ -5,8 +5,26 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="135563da-75a8-4af9-9025-2d4c919b84c2" name="Changes" comment=":memo: 입문문제 Day 3 짝수는 싫어요 수정">
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/introductionQuestion/.idea/sonarlint/issuestore/a/4/a4b61aaff776d70c5d4fbf37f376b4a08d78aa44" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/introductionQuestion/.idea/sonarlint/issuestore/d/c/dc3c06ed74ebfc6982ebdb3be4c2435e351d02bd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/introductionQuestion/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/introductionQuestion/.idea/sonarlint/securityhotspotstore/a/4/a4b61aaff776d70c5d4fbf37f376b4a08d78aa44" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/introductionQuestion/.idea/sonarlint/securityhotspotstore/d/c/dc3c06ed74ebfc6982ebdb3be4c2435e351d02bd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/introductionQuestion/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/introductionQuestion/Day_4/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/introductionQuestion/Day_4/.idea/Day_4.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/introductionQuestion/Day_4/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/introductionQuestion/Day_4/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/introductionQuestion/Day_4/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/introductionQuestion/Day_4/.idea/sonarlint/issuestore/c/5/c5b00f7f0ec9482b8ba3c328d6af16586c50b863" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/introductionQuestion/Day_4/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/introductionQuestion/Day_4/.idea/sonarlint/securityhotspotstore/c/5/c5b00f7f0ec9482b8ba3c328d6af16586c50b863" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/introductionQuestion/Day_4/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/introductionQuestion/Day_4/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/introductionQuestion/Day_4/Main1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/introductionQuestion/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/introductionQuestion/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/introductionQuestion/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/introductionQuestion/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -120,14 +138,8 @@
       <workItem from="1719127054968" duration="1698000" />
       <workItem from="1719185321462" duration="1364000" />
       <workItem from="1719187982167" duration="40000" />
-    </task>
-    <task id="LOCAL-00064" summary=":memo: 기초문제 Day 19 배열의 원소만큼 추가하기">
-      <option name="closed" value="true" />
-      <created>1718455536318</created>
-      <option name="number" value="00064" />
-      <option name="presentableId" value="LOCAL-00064" />
-      <option name="project" value="LOCAL" />
-      <updated>1718455536318</updated>
+      <workItem from="1719188039314" duration="30000" />
+      <workItem from="1719288537319" duration="478000" />
     </task>
     <task id="LOCAL-00065" summary=":memo: 기초문제 Day 19 빈 배열에 추가, 삭제하기">
       <option name="closed" value="true" />
@@ -513,7 +525,15 @@
       <option name="project" value="LOCAL" />
       <updated>1719188004664</updated>
     </task>
-    <option name="localTasksCounter" value="113" />
+    <task id="LOCAL-00113" summary=":memo: 입문문제 Day 3 짝수는 싫어요 수정">
+      <option name="closed" value="true" />
+      <created>1719188056467</created>
+      <option name="number" value="00113" />
+      <option name="presentableId" value="LOCAL-00113" />
+      <option name="project" value="LOCAL" />
+      <updated>1719188056467</updated>
+    </task>
+    <option name="localTasksCounter" value="114" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
