@@ -4,9 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="135563da-75a8-4af9-9025-2d4c919b84c2" name="Changes" comment=":memo: 입문문제 Day 5 옷가게 할인 받기">
+    <list default="true" id="135563da-75a8-4af9-9025-2d4c919b84c2" name="Changes" comment=":memo: 입문문제 Day 5 나이 출력">
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/introductionQuestion/Day_5/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/introductionQuestion/Day_5/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/introductionQuestion/Day_5/.idea/sonarlint/securityhotspotstore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/introductionQuestion/Day_5/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
     </list>
@@ -131,23 +132,7 @@
       <workItem from="1719187982167" duration="40000" />
       <workItem from="1719188039314" duration="30000" />
       <workItem from="1719288537319" duration="1571000" />
-      <workItem from="1719397627907" duration="858000" />
-    </task>
-    <task id="LOCAL-00070" summary=":memo: 기초문제 Day 20 배열 비교하기">
-      <option name="closed" value="true" />
-      <created>1718524875301</created>
-      <option name="number" value="00070" />
-      <option name="presentableId" value="LOCAL-00070" />
-      <option name="project" value="LOCAL" />
-      <updated>1718524875301</updated>
-    </task>
-    <task id="LOCAL-00071" summary=":memo: 기초문제 Day 20 문자열 묶기">
-      <option name="closed" value="true" />
-      <created>1718525466782</created>
-      <option name="number" value="00071" />
-      <option name="presentableId" value="LOCAL-00071" />
-      <option name="project" value="LOCAL" />
-      <updated>1718525466782</updated>
+      <workItem from="1719397627907" duration="1573000" />
     </task>
     <task id="LOCAL-00072" summary=":memo: 기초문제 Day 20 배열의 길이에 따라 다른 연산하기">
       <option name="closed" value="true" />
@@ -525,7 +510,23 @@
       <option name="project" value="LOCAL" />
       <updated>1719398426113</updated>
     </task>
-    <option name="localTasksCounter" value="119" />
+    <task id="LOCAL-00119" summary=":memo: 입문문제 Day 5 아이스 아메리카노">
+      <option name="closed" value="true" />
+      <created>1719398684426</created>
+      <option name="number" value="00119" />
+      <option name="presentableId" value="LOCAL-00119" />
+      <option name="project" value="LOCAL" />
+      <updated>1719398684426</updated>
+    </task>
+    <task id="LOCAL-00120" summary=":memo: 입문문제 Day 5 나이 출력">
+      <option name="closed" value="true" />
+      <created>1719398884674</created>
+      <option name="number" value="00120" />
+      <option name="presentableId" value="LOCAL-00120" />
+      <option name="project" value="LOCAL" />
+      <updated>1719398884674</updated>
+    </task>
+    <option name="localTasksCounter" value="121" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -543,8 +544,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value=":memo: 기초문제 Day 24 조건에 맞게 수열 변환하기 3" />
-    <MESSAGE value=":memo: 기초문제 Day 24 l로 만들기" />
     <MESSAGE value=":memo: 기초문제 Day 24 특별한 이차원 배열 1" />
     <MESSAGE value=":memo: 기초문제 Day 25 정수를 나선형으로 배치하기" />
     <MESSAGE value=":memo: 기초문제 Day 25 특별한 이차원 배열 2" />
@@ -568,6 +567,8 @@
     <MESSAGE value=":memo: 입문문제 Day 4 피자 나눠 먹기 (3)" />
     <MESSAGE value=":memo: 입문문제 Day 4 배열의 평균값" />
     <MESSAGE value=":memo: 입문문제 Day 5 옷가게 할인 받기" />
-    <option name="LAST_COMMIT_MESSAGE" value=":memo: 입문문제 Day 5 옷가게 할인 받기" />
+    <MESSAGE value=":memo: 입문문제 Day 5 아이스 아메리카노" />
+    <MESSAGE value=":memo: 입문문제 Day 5 나이 출력" />
+    <option name="LAST_COMMIT_MESSAGE" value=":memo: 입문문제 Day 5 나이 출력" />
   </component>
 </project>
