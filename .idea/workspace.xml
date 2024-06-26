@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="135563da-75a8-4af9-9025-2d4c919b84c2" name="Changes" comment=":memo: 입문문제 Day 4 피자 나눠 먹기 (2)">
-      <change beforePath="$PROJECT_DIR$/introductionQuestion/Day_4/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/introductionQuestion/Day_4/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/introductionQuestion/Day_4/.idea/sonarlint/securityhotspotstore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/introductionQuestion/Day_4/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
+    <list default="true" id="135563da-75a8-4af9-9025-2d4c919b84c2" name="Changes" comment=":memo: 입문문제 Day 4 배열의 평균값">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -29,14 +28,12 @@
     &quot;assignee&quot;: &quot;HeeYeong91&quot;
   }
 }</component>
-  <component name="GithubPullRequestsUISettings">
-    <option name="selectedUrlAndAccountId">
-      <UrlAndAccount>
-        <option name="accountId" value="fa0308c3-f65a-41d6-8a64-18432dc46eae" />
-        <option name="url" value="https://github.com/HeeYeong91/programmers.git" />
-      </UrlAndAccount>
-    </option>
-  </component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/HeeYeong91/programmers.git",
+    "accountId": "7a5170de-e46b-4ffc-afea-48cca5857dd5"
+  }
+}]]></component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
@@ -51,26 +48,27 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;SONARLINT_PRECOMMIT_ANALYSIS&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;deletionFromPopupRequiresConfirmation&quot;: &quot;false&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;last_opened_file_path&quot;: &quot;D:/블로그/티스토리/programmers/기초 문제/Day_2/.idea&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;Errors&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "SONARLINT_PRECOMMIT_ANALYSIS": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "deletionFromPopupRequiresConfirmation": "false",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "D:/블로그/티스토리/programmers/기초 문제/Day_2/.idea",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "Errors",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\블로그\티스토리\programmers\기초 문제\Day_2\.idea" />
@@ -81,6 +79,14 @@
       <recent name="D:\블로그\티스토리\programmers\기초 문제\Day_5" />
       <recent name="D:\블로그\티스토리\programmers\기초 문제\Day_4" />
     </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9f38398b9061-39b83d9b5494-intellij.indexing.shared.core-IU-241.18034.62" />
+        <option value="bundled-js-predefined-1d06a55b98c1-0b3e54e931b4-JavaScript-IU-241.18034.62" />
+      </set>
+    </attachedChunks>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -121,23 +127,8 @@
       <workItem from="1719185321462" duration="1364000" />
       <workItem from="1719187982167" duration="40000" />
       <workItem from="1719188039314" duration="30000" />
-      <workItem from="1719288537319" duration="1260000" />
-    </task>
-    <task id="LOCAL-00067" summary=":memo: 기초문제 Day 19 무작위로 K개의 수 뽑기">
-      <option name="closed" value="true" />
-      <created>1718458342602</created>
-      <option name="number" value="00067" />
-      <option name="presentableId" value="LOCAL-00067" />
-      <option name="project" value="LOCAL" />
-      <updated>1718458342602</updated>
-    </task>
-    <task id="LOCAL-00068" summary=":memo: 기초문제 Day 19 무작위로 K개의 수 뽑기">
-      <option name="closed" value="true" />
-      <created>1718458353349</created>
-      <option name="number" value="00068" />
-      <option name="presentableId" value="LOCAL-00068" />
-      <option name="project" value="LOCAL" />
-      <updated>1718458353349</updated>
+      <workItem from="1719288537319" duration="1571000" />
+      <workItem from="1719397627907" duration="611000" />
     </task>
     <task id="LOCAL-00069" summary=":memo: 기초문제 Day 20 배열의 길이를 2의 거듭제곱으로 만들기">
       <option name="closed" value="true" />
@@ -515,7 +506,23 @@
       <option name="project" value="LOCAL" />
       <updated>1719289413341</updated>
     </task>
-    <option name="localTasksCounter" value="116" />
+    <task id="LOCAL-00116" summary=":memo: 입문문제 Day 4 피자 나눠 먹기 (3)">
+      <option name="closed" value="true" />
+      <created>1719289897874</created>
+      <option name="number" value="00116" />
+      <option name="presentableId" value="LOCAL-00116" />
+      <option name="project" value="LOCAL" />
+      <updated>1719289897874</updated>
+    </task>
+    <task id="LOCAL-00117" summary=":memo: 입문문제 Day 4 배열의 평균값">
+      <option name="closed" value="true" />
+      <created>1719290064959</created>
+      <option name="number" value="00117" />
+      <option name="presentableId" value="LOCAL-00117" />
+      <option name="project" value="LOCAL" />
+      <updated>1719290064959</updated>
+    </task>
+    <option name="localTasksCounter" value="118" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -533,8 +540,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value=":memo: 기초문제 Day 23 날짜 비교하기" />
-    <MESSAGE value=":memo: 기초문제 Day 24 커피 심부름" />
     <MESSAGE value=":memo: 기초문제 Day 24 그림 확대" />
     <MESSAGE value=":memo: 기초문제 Day 24 조건에 맞게 수열 변환하기 3" />
     <MESSAGE value=":memo: 기초문제 Day 24 l로 만들기" />
@@ -558,6 +563,8 @@
     <MESSAGE value=":memo: 입문문제 Day 3 짝수는 싫어요 수정" />
     <MESSAGE value=":memo: 입문문제 Day 4 피자 나눠 먹기 (1)" />
     <MESSAGE value=":memo: 입문문제 Day 4 피자 나눠 먹기 (2)" />
-    <option name="LAST_COMMIT_MESSAGE" value=":memo: 입문문제 Day 4 피자 나눠 먹기 (2)" />
+    <MESSAGE value=":memo: 입문문제 Day 4 피자 나눠 먹기 (3)" />
+    <MESSAGE value=":memo: 입문문제 Day 4 배열의 평균값" />
+    <option name="LAST_COMMIT_MESSAGE" value=":memo: 입문문제 Day 4 배열의 평균값" />
   </component>
 </project>
