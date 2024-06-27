@@ -4,13 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="135563da-75a8-4af9-9025-2d4c919b84c2" name="Changes" comment=":memo: 입문문제 Day 5 배열 뒤집기">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/introductionQuestion/Day_5/.idea/sonarlint/issuestore/0/d/0d26f9d1452d0ef580b37f42842f0cc996bb3754" beforeDir="false" afterPath="$PROJECT_DIR$/introductionQuestion/Day_5/.idea/sonarlint/issuestore/0/d/0d26f9d1452d0ef580b37f42842f0cc996bb3754" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/introductionQuestion/Day_5/.idea/sonarlint/issuestore/4/7/475bf0dcc22352aa8e26db3057bbc61619ac2417" beforeDir="false" afterPath="$PROJECT_DIR$/introductionQuestion/Day_5/.idea/sonarlint/issuestore/4/7/475bf0dcc22352aa8e26db3057bbc61619ac2417" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/introductionQuestion/Day_5/.idea/sonarlint/issuestore/a/9/a9d2be3bd230c46b86f04d8d7250f088545c7a15" beforeDir="false" afterPath="$PROJECT_DIR$/introductionQuestion/Day_5/.idea/sonarlint/issuestore/a/9/a9d2be3bd230c46b86f04d8d7250f088545c7a15" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/introductionQuestion/Day_5/.idea/sonarlint/issuestore/c/5/c5b00f7f0ec9482b8ba3c328d6af16586c50b863" beforeDir="false" afterPath="$PROJECT_DIR$/introductionQuestion/Day_5/.idea/sonarlint/issuestore/c/5/c5b00f7f0ec9482b8ba3c328d6af16586c50b863" afterDir="false" />
-    </list>
+    <list default="true" id="135563da-75a8-4af9-9025-2d4c919b84c2" name="Changes" comment=":memo: 입문문제 Day 6 직각삼각형 출력하기" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -133,23 +127,7 @@
       <workItem from="1719188039314" duration="30000" />
       <workItem from="1719288537319" duration="1571000" />
       <workItem from="1719397627907" duration="1715000" />
-      <workItem from="1719471944333" duration="387000" />
-    </task>
-    <task id="LOCAL-00073" summary=":memo: 기초문제 Day 20 뒤에서 5등까지">
-      <option name="closed" value="true" />
-      <created>1718526182119</created>
-      <option name="number" value="00073" />
-      <option name="presentableId" value="LOCAL-00073" />
-      <option name="project" value="LOCAL" />
-      <updated>1718526182119</updated>
-    </task>
-    <task id="LOCAL-00074" summary=":memo: 기초문제 Day 21 뒤에서 5등 위로">
-      <option name="closed" value="true" />
-      <created>1718627598471</created>
-      <option name="number" value="00074" />
-      <option name="presentableId" value="LOCAL-00074" />
-      <option name="project" value="LOCAL" />
-      <updated>1718627598471</updated>
+      <workItem from="1719471944333" duration="695000" />
     </task>
     <task id="LOCAL-00075" summary=":memo: 기초문제 Day 21 전국 대회 선발 고사">
       <option name="closed" value="true" />
@@ -527,7 +505,23 @@
       <option name="project" value="LOCAL" />
       <updated>1719399458496</updated>
     </task>
-    <option name="localTasksCounter" value="122" />
+    <task id="LOCAL-00122" summary=":memo: 입문문제 Day 6 문자열 뒤집기">
+      <option name="closed" value="true" />
+      <created>1719472413031</created>
+      <option name="number" value="00122" />
+      <option name="presentableId" value="LOCAL-00122" />
+      <option name="project" value="LOCAL" />
+      <updated>1719472413031</updated>
+    </task>
+    <task id="LOCAL-00123" summary=":memo: 입문문제 Day 6 직각삼각형 출력하기">
+      <option name="closed" value="true" />
+      <created>1719472632406</created>
+      <option name="number" value="00123" />
+      <option name="presentableId" value="LOCAL-00123" />
+      <option name="project" value="LOCAL" />
+      <updated>1719472632406</updated>
+    </task>
+    <option name="localTasksCounter" value="124" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -545,8 +539,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value=":memo: 기초문제 Day 25 정수를 나선형으로 배치하기" />
-    <MESSAGE value=":memo: 기초문제 Day 25 특별한 이차원 배열 2" />
     <MESSAGE value=":memo: 기초문제 Day 25 정사각형으로 만들기" />
     <MESSAGE value=":memo: 기초문제 Day 25 이차원 배열 대각선 순회하기" />
     <MESSAGE value=":memo: 입문문제 Day 1 두 수의 합" />
@@ -570,6 +562,8 @@
     <MESSAGE value=":memo: 입문문제 Day 5 아이스 아메리카노" />
     <MESSAGE value=":memo: 입문문제 Day 5 나이 출력" />
     <MESSAGE value=":memo: 입문문제 Day 5 배열 뒤집기" />
-    <option name="LAST_COMMIT_MESSAGE" value=":memo: 입문문제 Day 5 배열 뒤집기" />
+    <MESSAGE value=":memo: 입문문제 Day 6 문자열 뒤집기" />
+    <MESSAGE value=":memo: 입문문제 Day 6 직각삼각형 출력하기" />
+    <option name="LAST_COMMIT_MESSAGE" value=":memo: 입문문제 Day 6 직각삼각형 출력하기" />
   </component>
 </project>
