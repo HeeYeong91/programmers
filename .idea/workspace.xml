@@ -4,19 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="135563da-75a8-4af9-9025-2d4c919b84c2" name="Changes" comment=":memo: 입문문제 Day 6 문자 반복 출력하기">
-      <change afterPath="$PROJECT_DIR$/introductionQuestion/Day_7/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/introductionQuestion/Day_7/.idea/Day_7.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/introductionQuestion/Day_7/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/introductionQuestion/Day_7/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/introductionQuestion/Day_7/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/introductionQuestion/Day_7/.idea/sonarlint/issuestore/c/5/c5b00f7f0ec9482b8ba3c328d6af16586c50b863" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/introductionQuestion/Day_7/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/introductionQuestion/Day_7/.idea/sonarlint/securityhotspotstore/c/5/c5b00f7f0ec9482b8ba3c328d6af16586c50b863" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/introductionQuestion/Day_7/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/introductionQuestion/Day_7/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/introductionQuestion/Day_7/Main1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="135563da-75a8-4af9-9025-2d4c919b84c2" name="Changes" comment=":memo: 입문문제 Day 7 각도기">
+      <change afterPath="$PROJECT_DIR$/introductionQuestion/Day_7/.idea/sonarlint/issuestore/0/d/0d26f9d1452d0ef580b37f42842f0cc996bb3754" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/introductionQuestion/Day_7/.idea/sonarlint/securityhotspotstore/0/d/0d26f9d1452d0ef580b37f42842f0cc996bb3754" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/introductionQuestion/Day_7/Main2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/introductionQuestion/Day_7/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/introductionQuestion/Day_7/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/introductionQuestion/Day_7/.idea/sonarlint/securityhotspotstore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/introductionQuestion/Day_7/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -141,23 +136,7 @@
       <workItem from="1719288537319" duration="1571000" />
       <workItem from="1719397627907" duration="1715000" />
       <workItem from="1719471944333" duration="1123000" />
-      <workItem from="1719568180816" duration="310000" />
-    </task>
-    <task id="LOCAL-00077" summary=":memo: 기초문제 Day 21 문자열 정수의 합">
-      <option name="closed" value="true" />
-      <created>1718629440038</created>
-      <option name="number" value="00077" />
-      <option name="presentableId" value="LOCAL-00077" />
-      <option name="project" value="LOCAL" />
-      <updated>1718629440038</updated>
-    </task>
-    <task id="LOCAL-00078" summary=":memo: 기초문제 Day 21 문자열을 정수로 변환하기">
-      <option name="closed" value="true" />
-      <created>1718629551898</created>
-      <option name="number" value="00078" />
-      <option name="presentableId" value="LOCAL-00078" />
-      <option name="project" value="LOCAL" />
-      <updated>1718629551898</updated>
+      <workItem from="1719568180816" duration="616000" />
     </task>
     <task id="LOCAL-00079" summary=":memo: 기초문제 Day 22 0 떼기">
       <option name="closed" value="true" />
@@ -535,7 +514,23 @@
       <option name="project" value="LOCAL" />
       <updated>1719473059569</updated>
     </task>
-    <option name="localTasksCounter" value="126" />
+    <task id="LOCAL-00126" summary=":memo: 입문문제 Day 7 특정 문자 제거하기">
+      <option name="closed" value="true" />
+      <created>1719568502031</created>
+      <option name="number" value="00126" />
+      <option name="presentableId" value="LOCAL-00126" />
+      <option name="project" value="LOCAL" />
+      <updated>1719568502031</updated>
+    </task>
+    <task id="LOCAL-00127" summary=":memo: 입문문제 Day 7 각도기">
+      <option name="closed" value="true" />
+      <created>1719568797854</created>
+      <option name="number" value="00127" />
+      <option name="presentableId" value="LOCAL-00127" />
+      <option name="project" value="LOCAL" />
+      <updated>1719568797854</updated>
+    </task>
+    <option name="localTasksCounter" value="128" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -553,8 +548,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value=":memo: 입문문제 Day 1 두 수의 합" />
-    <MESSAGE value=":memo: 입문문제 Day 1 두 수의 차" />
     <MESSAGE value=":memo: 입문문제 Day 1 두 수의 곱" />
     <MESSAGE value=":memo: 입문문제 Day 1 몫 구하기" />
     <MESSAGE value=":memo: 입문문제 Day 2 두 수의 나눗셈" />
@@ -578,6 +571,8 @@
     <MESSAGE value=":memo: 입문문제 Day 6 직각삼각형 출력하기" />
     <MESSAGE value=":memo: 입문문제 Day 6 짝수 홀수 개수" />
     <MESSAGE value=":memo: 입문문제 Day 6 문자 반복 출력하기" />
-    <option name="LAST_COMMIT_MESSAGE" value=":memo: 입문문제 Day 6 문자 반복 출력하기" />
+    <MESSAGE value=":memo: 입문문제 Day 7 특정 문자 제거하기" />
+    <MESSAGE value=":memo: 입문문제 Day 7 각도기" />
+    <option name="LAST_COMMIT_MESSAGE" value=":memo: 입문문제 Day 7 각도기" />
   </component>
 </project>
