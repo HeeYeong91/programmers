@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="135563da-75a8-4af9-9025-2d4c919b84c2" name="Changes" comment=":memo: 입문문제 Day 8 외계행성의 나이">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="135563da-75a8-4af9-9025-2d4c919b84c2" name="Changes" comment=":memo: 입문문제 Day 8 진료순서 정하기">
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/introductionQuestion/Day_8/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/introductionQuestion/Day_8/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/introductionQuestion/Day_8/.idea/sonarlint/securityhotspotstore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/introductionQuestion/Day_8/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
     </list>
@@ -133,15 +134,7 @@
       <workItem from="1719397627907" duration="1715000" />
       <workItem from="1719471944333" duration="1123000" />
       <workItem from="1719568180816" duration="1006000" />
-      <workItem from="1719643526255" duration="1669000" />
-    </task>
-    <task id="LOCAL-00083" summary=":memo: 기초문제 Day 22 부분 문자열인지 확인하기">
-      <option name="closed" value="true" />
-      <created>1718694540122</created>
-      <option name="number" value="00083" />
-      <option name="presentableId" value="LOCAL-00083" />
-      <option name="project" value="LOCAL" />
-      <updated>1718694540122</updated>
+      <workItem from="1719643526255" duration="2196000" />
     </task>
     <task id="LOCAL-00084" summary=":memo: 기초문제 Day 23 부분 문자열">
       <option name="closed" value="true" />
@@ -527,7 +520,15 @@
       <option name="project" value="LOCAL" />
       <updated>1719644977980</updated>
     </task>
-    <option name="localTasksCounter" value="132" />
+    <task id="LOCAL-00132" summary=":memo: 입문문제 Day 8 진료순서 정하기">
+      <option name="closed" value="true" />
+      <created>1719646142487</created>
+      <option name="number" value="00132" />
+      <option name="presentableId" value="LOCAL-00132" />
+      <option name="project" value="LOCAL" />
+      <updated>1719646142487</updated>
+    </task>
+    <option name="localTasksCounter" value="133" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -545,7 +546,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value=":memo: 입문문제 Day 2 분수의 덧셈" />
     <MESSAGE value=":memo: 입문문제 Day 2 배열 두 배 만들기" />
     <MESSAGE value=":memo: 입문문제 Day 3 나머지 구하기" />
     <MESSAGE value=":memo: 입문문제 Day 3 중앙값 구하기" />
@@ -570,6 +570,7 @@
     <MESSAGE value=":memo: 입문문제 Day 7 짝수의 합" />
     <MESSAGE value=":memo: 입문문제 Day 8 배열 자르기" />
     <MESSAGE value=":memo: 입문문제 Day 8 외계행성의 나이" />
-    <option name="LAST_COMMIT_MESSAGE" value=":memo: 입문문제 Day 8 외계행성의 나이" />
+    <MESSAGE value=":memo: 입문문제 Day 8 진료순서 정하기" />
+    <option name="LAST_COMMIT_MESSAGE" value=":memo: 입문문제 Day 8 진료순서 정하기" />
   </component>
 </project>
