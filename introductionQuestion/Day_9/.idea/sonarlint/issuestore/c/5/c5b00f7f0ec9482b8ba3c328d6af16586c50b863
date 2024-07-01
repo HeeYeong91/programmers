@@ -1,0 +1,8 @@
+
+{
+java:S1488"^Immediately return this expression instead of assigning it to the temporary variable "answer".(åí¢é8‰áÕç†2
+L	java:S106"+Replace this use of System.out by a logger.(ï¨óéşÿÿÿÿ8ªáÕç†2
+L	java:S106"+Replace this use of System.out by a logger.(º·÷Íøÿÿÿÿ8®áÕç†2
+L	java:S106	"+Replace this use of System.out by a logger.(æŞ»âÿÿÿÿÿ8°áÕç†2
+F
+java:S1172")Remove this unused method parameter "hp".(ÛÂÔ8¶áÕç†2
