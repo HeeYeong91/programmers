@@ -4,12 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="135563da-75a8-4af9-9025-2d4c919b84c2" name="Changes" comment=":memo: 입문문제 Day 9 개미 군단">
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/introductionQuestion/Day_9/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/introductionQuestion/Day_9/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/introductionQuestion/Day_9/.idea/sonarlint/securityhotspotstore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/introductionQuestion/Day_9/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
-    </list>
+    <list default="true" id="135563da-75a8-4af9-9025-2d4c919b84c2" name="Changes" comment=":memo: 입문문제 Day 9 모스부호 (1)" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -135,15 +130,7 @@
       <workItem from="1719471944333" duration="1123000" />
       <workItem from="1719568180816" duration="1006000" />
       <workItem from="1719643526255" duration="2341000" />
-      <workItem from="1719814687147" duration="897000" />
-    </task>
-    <task id="LOCAL-00086" summary=":memo: 기초문제 Day 23 꼬리 문자열">
-      <option name="closed" value="true" />
-      <created>1718755830493</created>
-      <option name="number" value="00086" />
-      <option name="presentableId" value="LOCAL-00086" />
-      <option name="project" value="LOCAL" />
-      <updated>1718755830493</updated>
+      <workItem from="1719814687147" duration="1201000" />
     </task>
     <task id="LOCAL-00087" summary=":memo: 기초문제 Day 23 정수 찾기">
       <option name="closed" value="true" />
@@ -529,7 +516,15 @@
       <option name="project" value="LOCAL" />
       <updated>1719815434867</updated>
     </task>
-    <option name="localTasksCounter" value="135" />
+    <task id="LOCAL-00135" summary=":memo: 입문문제 Day 9 모스부호 (1)">
+      <option name="closed" value="true" />
+      <created>1719815998872</created>
+      <option name="number" value="00135" />
+      <option name="presentableId" value="LOCAL-00135" />
+      <option name="project" value="LOCAL" />
+      <updated>1719815998872</updated>
+    </task>
+    <option name="localTasksCounter" value="136" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -547,7 +542,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value=":memo: 입문문제 Day 3 중앙값 구하기" />
     <MESSAGE value=":memo: 입문문제 Day 3 최빈값 구하기" />
     <MESSAGE value=":memo: 입문문제 Day 3 짝수는 싫어요" />
     <MESSAGE value=":memo: 입문문제 Day 3 짝수는 싫어요 수정" />
@@ -572,6 +566,7 @@
     <MESSAGE value=":memo: 입문문제 Day 8 진료순서 정하기" />
     <MESSAGE value=":memo: 입문문제 Day 8 순서쌍의 개수" />
     <MESSAGE value=":memo: 입문문제 Day 9 개미 군단" />
-    <option name="LAST_COMMIT_MESSAGE" value=":memo: 입문문제 Day 9 개미 군단" />
+    <MESSAGE value=":memo: 입문문제 Day 9 모스부호 (1)" />
+    <option name="LAST_COMMIT_MESSAGE" value=":memo: 입문문제 Day 9 모스부호 (1)" />
   </component>
 </project>

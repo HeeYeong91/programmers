@@ -10,7 +10,7 @@ public class Main2 {
         System.out.println(solution(".--. -.-- - .... --- -."));
     }
 
-    public static String solution(String letter) {
+    public static String solution(String rsp) {
         HashMap<String, Character> hm = new HashMap<>();
         StringBuilder sb = new StringBuilder();
         String[] morse = {
