@@ -1,6 +1,6 @@
 /**
  * 코딩테스트 입문 Day 10 조건문, 배열, 수학, 시뮬레이션
- * 2차원으로 만들기
+ * 공 던지기
  */
 public class Main3 {
     public static void main(String[] args) {
