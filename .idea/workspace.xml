@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="135563da-75a8-4af9-9025-2d4c919b84c2" name="Changes" comment=":memo: 입문문제 Day 10 배열 회전시키기" />
+    <list default="true" id="135563da-75a8-4af9-9025-2d4c919b84c2" name="Changes" comment=":memo: 입문문제 Day 10 배열 회전시키기">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -132,14 +134,8 @@
       <workItem from="1719643526255" duration="2341000" />
       <workItem from="1719814687147" duration="2122000" />
       <workItem from="1719880041757" duration="1954000" />
-    </task>
-    <task id="LOCAL-00093" summary=":memo: 기초문제 Day 24 조건에 맞게 수열 변환하기 3">
-      <option name="closed" value="true" />
-      <created>1718855355689</created>
-      <option name="number" value="00093" />
-      <option name="presentableId" value="LOCAL-00093" />
-      <option name="project" value="LOCAL" />
-      <updated>1718855355689</updated>
+      <workItem from="1719882229030" duration="27000" />
+      <workItem from="1720001414449" duration="569000" />
     </task>
     <task id="LOCAL-00094" summary=":memo: 기초문제 Day 24 l로 만들기">
       <option name="closed" value="true" />
@@ -525,7 +521,15 @@
       <option name="project" value="LOCAL" />
       <updated>1719881996075</updated>
     </task>
-    <option name="localTasksCounter" value="142" />
+    <task id="LOCAL-00142" summary=":memo: 입문문제 Day 10 배열 회전시키기">
+      <option name="closed" value="true" />
+      <created>1719882246398</created>
+      <option name="number" value="00142" />
+      <option name="presentableId" value="LOCAL-00142" />
+      <option name="project" value="LOCAL" />
+      <updated>1719882246398</updated>
+    </task>
+    <option name="localTasksCounter" value="143" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
