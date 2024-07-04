@@ -4,12 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="135563da-75a8-4af9-9025-2d4c919b84c2" name="Changes" comment=":memo: 입문문제 Day 11 최댓값 만들기 (1)">
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
+    <list default="true" id="135563da-75a8-4af9-9025-2d4c919b84c2" name="Changes" comment=":memo: 입문문제 Day 11 팩토리얼">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/introductionQuestion/Day_11/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/introductionQuestion/Day_11/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/introductionQuestion/Day_11/.idea/sonarlint/securityhotspotstore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/introductionQuestion/Day_11/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -139,15 +135,8 @@
       <workItem from="1719814687147" duration="2122000" />
       <workItem from="1719880041757" duration="1954000" />
       <workItem from="1719882229030" duration="27000" />
-      <workItem from="1720001414449" duration="1822000" />
-    </task>
-    <task id="LOCAL-00097" summary=":memo: 기초문제 Day 25 특별한 이차원 배열 2">
-      <option name="closed" value="true" />
-      <created>1718955481890</created>
-      <option name="number" value="00097" />
-      <option name="presentableId" value="LOCAL-00097" />
-      <option name="project" value="LOCAL" />
-      <updated>1718955481890</updated>
+      <workItem from="1720001414449" duration="1844000" />
+      <workItem from="1720083955156" duration="650000" />
     </task>
     <task id="LOCAL-00098" summary=":memo: 기초문제 Day 25 정사각형으로 만들기">
       <option name="closed" value="true" />
@@ -533,7 +522,15 @@
       <option name="project" value="LOCAL" />
       <updated>1720002646915</updated>
     </task>
-    <option name="localTasksCounter" value="146" />
+    <task id="LOCAL-00146" summary=":memo: 입문문제 Day 11 팩토리얼">
+      <option name="closed" value="true" />
+      <created>1720003458036</created>
+      <option name="number" value="00146" />
+      <option name="presentableId" value="LOCAL-00146" />
+      <option name="project" value="LOCAL" />
+      <updated>1720003458036</updated>
+    </task>
+    <option name="localTasksCounter" value="147" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -551,7 +548,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value=":memo: 입문문제 Day 5 나이 출력" />
     <MESSAGE value=":memo: 입문문제 Day 5 배열 뒤집기" />
     <MESSAGE value=":memo: 입문문제 Day 6 문자열 뒤집기" />
     <MESSAGE value=":memo: 입문문제 Day 6 직각삼각형 출력하기" />
@@ -576,6 +572,7 @@
     <MESSAGE value=":memo: 입문문제 Day 11 주사위의 개수" />
     <MESSAGE value=":memo: 입문문제 Day 11 합성수 찾기" />
     <MESSAGE value=":memo: 입문문제 Day 11 최댓값 만들기 (1)" />
-    <option name="LAST_COMMIT_MESSAGE" value=":memo: 입문문제 Day 11 최댓값 만들기 (1)" />
+    <MESSAGE value=":memo: 입문문제 Day 11 팩토리얼" />
+    <option name="LAST_COMMIT_MESSAGE" value=":memo: 입문문제 Day 11 팩토리얼" />
   </component>
 </project>
