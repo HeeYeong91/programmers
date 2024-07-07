@@ -4,8 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="135563da-75a8-4af9-9025-2d4c919b84c2" name="Changes" comment=":memo: 입문문제 Day 14 369게임">
-      <change beforePath="$PROJECT_DIR$/introductionQuestion/Day_14/Main2.java" beforeDir="false" afterPath="$PROJECT_DIR$/introductionQuestion/Day_14/Main2.java" afterDir="false" />
+    <list default="true" id="135563da-75a8-4af9-9025-2d4c919b84c2" name="Changes" comment=":memo: 입문문제 Day 14 암호 해독">
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/introductionQuestion/Day_14/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/introductionQuestion/Day_14/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/introductionQuestion/Day_14/.idea/sonarlint/securityhotspotstore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/introductionQuestion/Day_14/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -138,15 +141,7 @@
       <workItem from="1720001414449" duration="1844000" />
       <workItem from="1720083955156" duration="1916000" />
       <workItem from="1720233604860" duration="1434000" />
-      <workItem from="1720353970981" duration="1361000" />
-    </task>
-    <task id="LOCAL-00108" summary=":memo: 입문문제 Day 3 나머지 구하기">
-      <option name="closed" value="true" />
-      <created>1719185563033</created>
-      <option name="number" value="00108" />
-      <option name="presentableId" value="LOCAL-00108" />
-      <option name="project" value="LOCAL" />
-      <updated>1719185563033</updated>
+      <workItem from="1720353970981" duration="1659000" />
     </task>
     <task id="LOCAL-00109" summary=":memo: 입문문제 Day 3 중앙값 구하기">
       <option name="closed" value="true" />
@@ -532,7 +527,15 @@
       <option name="project" value="LOCAL" />
       <updated>1720355437830</updated>
     </task>
-    <option name="localTasksCounter" value="157" />
+    <task id="LOCAL-00157" summary=":memo: 입문문제 Day 14 암호 해독">
+      <option name="closed" value="true" />
+      <created>1720355994002</created>
+      <option name="number" value="00157" />
+      <option name="presentableId" value="LOCAL-00157" />
+      <option name="project" value="LOCAL" />
+      <updated>1720355994002</updated>
+    </task>
+    <option name="localTasksCounter" value="158" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -550,7 +553,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value=":memo: 입문문제 Day 8 외계행성의 나이" />
     <MESSAGE value=":memo: 입문문제 Day 8 진료순서 정하기" />
     <MESSAGE value=":memo: 입문문제 Day 8 순서쌍의 개수" />
     <MESSAGE value=":memo: 입문문제 Day 9 개미 군단" />
@@ -575,6 +577,7 @@
     <MESSAGE value=":memo: 입문문제 Day 13 삼각형의 완성조건 (1)" />
     <MESSAGE value=":memo: 입문문제 Day 14 가까운 수" />
     <MESSAGE value=":memo: 입문문제 Day 14 369게임" />
-    <option name="LAST_COMMIT_MESSAGE" value=":memo: 입문문제 Day 14 369게임" />
+    <MESSAGE value=":memo: 입문문제 Day 14 암호 해독" />
+    <option name="LAST_COMMIT_MESSAGE" value=":memo: 입문문제 Day 14 암호 해독" />
   </component>
 </project>
