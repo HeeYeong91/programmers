@@ -9,14 +9,14 @@ public class Main2 {
     }
 
      public static int solution(int order) {
-        int answer = 0;
-        String[] strArr = String.valueOf(order).split("");
-        for (String s : strArr) {
-            if (s.equals("3") || s.equals("6") || s.equals("9")) {
-                answer++;
-            }
-        }
+         int answer = 0;
+         String[] strArr = String.valueOf(order).split("");
+         for (String s : strArr) {
+             if (s.equals("3") || s.equals("6") || s.equals("9")) {
+                 answer++;
+             }
+         }
 
-        return answer;
+         return answer;
      }
 }
