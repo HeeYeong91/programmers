@@ -4,12 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="135563da-75a8-4af9-9025-2d4c919b84c2" name="Changes" comment=":memo: 입문문제 Day 16 편지">
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/introductionQuestion/Day_16/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/introductionQuestion/Day_16/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/introductionQuestion/Day_16/.idea/sonarlint/securityhotspotstore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/introductionQuestion/Day_16/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
-    </list>
+    <list default="true" id="135563da-75a8-4af9-9025-2d4c919b84c2" name="Changes" comment=":memo: 입문문제 Day 16 가장 큰 수 찾기" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -143,15 +138,7 @@
       <workItem from="1720233604860" duration="1434000" />
       <workItem from="1720353970981" duration="1697000" />
       <workItem from="1720402007796" duration="2092000" />
-      <workItem from="1720524232132" duration="492000" />
-    </task>
-    <task id="LOCAL-00115" summary=":memo: 입문문제 Day 4 피자 나눠 먹기 (2)">
-      <option name="closed" value="true" />
-      <created>1719289413341</created>
-      <option name="number" value="00115" />
-      <option name="presentableId" value="LOCAL-00115" />
-      <option name="project" value="LOCAL" />
-      <updated>1719289413341</updated>
+      <workItem from="1720524232132" duration="1148000" />
     </task>
     <task id="LOCAL-00116" summary=":memo: 입문문제 Day 4 피자 나눠 먹기 (3)">
       <option name="closed" value="true" />
@@ -537,7 +524,15 @@
       <option name="project" value="LOCAL" />
       <updated>1720524513040</updated>
     </task>
-    <option name="localTasksCounter" value="164" />
+    <task id="LOCAL-00164" summary=":memo: 입문문제 Day 16 가장 큰 수 찾기">
+      <option name="closed" value="true" />
+      <created>1720524778127</created>
+      <option name="number" value="00164" />
+      <option name="presentableId" value="LOCAL-00164" />
+      <option name="project" value="LOCAL" />
+      <updated>1720524778127</updated>
+    </task>
+    <option name="localTasksCounter" value="165" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -555,7 +550,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value=":memo: 입문문제 Day 10 점의 위치 구하기" />
     <MESSAGE value=":memo: 입문문제 Day 10 2차원으로 만들기" />
     <MESSAGE value=":memo: 입문문제 Day 10 공 던지기" />
     <MESSAGE value=":memo: 입문문제 Day 10 배열 회전시키기" />
@@ -580,6 +574,7 @@
     <MESSAGE value=":memo: 입문문제 Day 15 한 번만 등장한 문자" />
     <MESSAGE value=":memo: 입문문제 Day 15 약수 구하기" />
     <MESSAGE value=":memo: 입문문제 Day 16 편지" />
-    <option name="LAST_COMMIT_MESSAGE" value=":memo: 입문문제 Day 16 편지" />
+    <MESSAGE value=":memo: 입문문제 Day 16 가장 큰 수 찾기" />
+    <option name="LAST_COMMIT_MESSAGE" value=":memo: 입문문제 Day 16 가장 큰 수 찾기" />
   </component>
 </project>
