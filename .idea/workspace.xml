@@ -4,9 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="135563da-75a8-4af9-9025-2d4c919b84c2" name="Changes" comment=":memo: 입문문제 Day 17 숫자 찾기">
+    <list default="true" id="135563da-75a8-4af9-9025-2d4c919b84c2" name="Changes" comment=":memo: 입문문제 Day 17 자릿수 더하기">
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/introductionQuestion/Day_17/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/introductionQuestion/Day_17/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/introductionQuestion/Day_17/.idea/sonarlint/securityhotspotstore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/introductionQuestion/Day_17/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
     </list>
@@ -144,23 +145,7 @@
       <workItem from="1720353970981" duration="1697000" />
       <workItem from="1720402007796" duration="2092000" />
       <workItem from="1720524232132" duration="2268000" />
-      <workItem from="1720614292796" duration="647000" />
-    </task>
-    <task id="LOCAL-00119" summary=":memo: 입문문제 Day 5 아이스 아메리카노">
-      <option name="closed" value="true" />
-      <created>1719398684426</created>
-      <option name="number" value="00119" />
-      <option name="presentableId" value="LOCAL-00119" />
-      <option name="project" value="LOCAL" />
-      <updated>1719398684426</updated>
-    </task>
-    <task id="LOCAL-00120" summary=":memo: 입문문제 Day 5 나이 출력">
-      <option name="closed" value="true" />
-      <created>1719398884674</created>
-      <option name="number" value="00120" />
-      <option name="presentableId" value="LOCAL-00120" />
-      <option name="project" value="LOCAL" />
-      <updated>1719398884674</updated>
+      <workItem from="1720614292796" duration="1546000" />
     </task>
     <task id="LOCAL-00121" summary=":memo: 입문문제 Day 5 배열 뒤집기">
       <option name="closed" value="true" />
@@ -538,7 +523,23 @@
       <option name="project" value="LOCAL" />
       <updated>1720614644992</updated>
     </task>
-    <option name="localTasksCounter" value="168" />
+    <task id="LOCAL-00168" summary=":memo: 입문문제 Day 17 n의 배수 고르기">
+      <option name="closed" value="true" />
+      <created>1720614998264</created>
+      <option name="number" value="00168" />
+      <option name="presentableId" value="LOCAL-00168" />
+      <option name="project" value="LOCAL" />
+      <updated>1720614998264</updated>
+    </task>
+    <task id="LOCAL-00169" summary=":memo: 입문문제 Day 17 자릿수 더하기">
+      <option name="closed" value="true" />
+      <created>1720615251187</created>
+      <option name="number" value="00169" />
+      <option name="presentableId" value="LOCAL-00169" />
+      <option name="project" value="LOCAL" />
+      <updated>1720615251187</updated>
+    </task>
+    <option name="localTasksCounter" value="170" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -556,8 +557,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value=":memo: 입문문제 Day 11 주사위의 개수" />
-    <MESSAGE value=":memo: 입문문제 Day 11 합성수 찾기" />
     <MESSAGE value=":memo: 입문문제 Day 11 최댓값 만들기 (1)" />
     <MESSAGE value=":memo: 입문문제 Day 11 팩토리얼" />
     <MESSAGE value=":memo: 입문문제 Day 12 모음 제거" />
@@ -581,6 +580,8 @@
     <MESSAGE value=":memo: 입문문제 Day 16 문자열 계산하기" />
     <MESSAGE value=":memo: 입문문제 Day 16 배열의 유사도" />
     <MESSAGE value=":memo: 입문문제 Day 17 숫자 찾기" />
-    <option name="LAST_COMMIT_MESSAGE" value=":memo: 입문문제 Day 17 숫자 찾기" />
+    <MESSAGE value=":memo: 입문문제 Day 17 n의 배수 고르기" />
+    <MESSAGE value=":memo: 입문문제 Day 17 자릿수 더하기" />
+    <option name="LAST_COMMIT_MESSAGE" value=":memo: 입문문제 Day 17 자릿수 더하기" />
   </component>
 </project>
