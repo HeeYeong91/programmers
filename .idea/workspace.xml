@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="135563da-75a8-4af9-9025-2d4c919b84c2" name="Changes" comment=":memo: 입문문제 Day 17 OX퀴즈" />
+    <list default="true" id="135563da-75a8-4af9-9025-2d4c919b84c2" name="Changes" comment=":memo: 입문문제 Day 18 문자열안에 문자열">
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -140,14 +143,7 @@
       <workItem from="1720402007796" duration="2092000" />
       <workItem from="1720524232132" duration="2268000" />
       <workItem from="1720614292796" duration="1584000" />
-    </task>
-    <task id="LOCAL-00122" summary=":memo: 입문문제 Day 6 문자열 뒤집기">
-      <option name="closed" value="true" />
-      <created>1719472413031</created>
-      <option name="number" value="00122" />
-      <option name="presentableId" value="LOCAL-00122" />
-      <option name="project" value="LOCAL" />
-      <updated>1719472413031</updated>
+      <workItem from="1720678229596" duration="439000" />
     </task>
     <task id="LOCAL-00123" summary=":memo: 입문문제 Day 6 직각삼각형 출력하기">
       <option name="closed" value="true" />
@@ -533,7 +529,15 @@
       <option name="project" value="LOCAL" />
       <updated>1720616207903</updated>
     </task>
-    <option name="localTasksCounter" value="171" />
+    <task id="LOCAL-00171" summary=":memo: 입문문제 Day 18 문자열안에 문자열">
+      <option name="closed" value="true" />
+      <created>1720678443309</created>
+      <option name="number" value="00171" />
+      <option name="presentableId" value="LOCAL-00171" />
+      <option name="project" value="LOCAL" />
+      <updated>1720678443309</updated>
+    </task>
+    <option name="localTasksCounter" value="172" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -551,7 +555,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value=":memo: 입문문제 Day 11 팩토리얼" />
     <MESSAGE value=":memo: 입문문제 Day 12 모음 제거" />
     <MESSAGE value=":memo: 입문문제 Day 12 문자열 정렬하기 (1)" />
     <MESSAGE value=":memo: 입문문제 Day 12 숨어있는 숫자의 덧셈 (1)" />
@@ -576,6 +579,7 @@
     <MESSAGE value=":memo: 입문문제 Day 17 n의 배수 고르기" />
     <MESSAGE value=":memo: 입문문제 Day 17 자릿수 더하기" />
     <MESSAGE value=":memo: 입문문제 Day 17 OX퀴즈" />
-    <option name="LAST_COMMIT_MESSAGE" value=":memo: 입문문제 Day 17 OX퀴즈" />
+    <MESSAGE value=":memo: 입문문제 Day 18 문자열안에 문자열" />
+    <option name="LAST_COMMIT_MESSAGE" value=":memo: 입문문제 Day 18 문자열안에 문자열" />
   </component>
 </project>
