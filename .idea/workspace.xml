@@ -4,13 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="135563da-75a8-4af9-9025-2d4c919b84c2" name="Changes" comment=":memo: 입문문제 Day 19 잘라서 배열로 저장하기">
-      <change afterPath="$PROJECT_DIR$/introductionQuestion/Day_19/.idea/sonarlint/issuestore/0/d/0d26f9d1452d0ef580b37f42842f0cc996bb3754" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/introductionQuestion/Day_19/.idea/sonarlint/securityhotspotstore/0/d/0d26f9d1452d0ef580b37f42842f0cc996bb3754" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/introductionQuestion/Day_19/Main2.java" afterDir="false" />
+    <list default="true" id="135563da-75a8-4af9-9025-2d4c919b84c2" name="Changes" comment=":memo: 입문문제 Day 19 중복된 숫자 개수">
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/introductionQuestion/Day_19/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/introductionQuestion/Day_19/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/introductionQuestion/Day_19/.idea/sonarlint/securityhotspotstore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/introductionQuestion/Day_19/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
     </list>
@@ -150,23 +146,7 @@
       <workItem from="1720524232132" duration="2268000" />
       <workItem from="1720614292796" duration="1584000" />
       <workItem from="1720678229596" duration="1914000" />
-      <workItem from="1720778088367" duration="976000" />
-    </task>
-    <task id="LOCAL-00128" summary=":memo: 입문문제 Day 7 양꼬치">
-      <option name="closed" value="true" />
-      <created>1719569022925</created>
-      <option name="number" value="00128" />
-      <option name="presentableId" value="LOCAL-00128" />
-      <option name="project" value="LOCAL" />
-      <updated>1719569022925</updated>
-    </task>
-    <task id="LOCAL-00129" summary=":memo: 입문문제 Day 7 짝수의 합">
-      <option name="closed" value="true" />
-      <created>1719569181634</created>
-      <option name="number" value="00129" />
-      <option name="presentableId" value="LOCAL-00129" />
-      <option name="project" value="LOCAL" />
-      <updated>1719569181634</updated>
+      <workItem from="1720778088367" duration="1275000" />
     </task>
     <task id="LOCAL-00130" summary=":memo: 입문문제 Day 8 배열 자르기">
       <option name="closed" value="true" />
@@ -544,7 +524,23 @@
       <option name="project" value="LOCAL" />
       <updated>1720779627500</updated>
     </task>
-    <option name="localTasksCounter" value="177" />
+    <task id="LOCAL-00177" summary=":memo: 입문문제 Day 19 중복된 숫자 개수">
+      <option name="closed" value="true" />
+      <created>1720779835296</created>
+      <option name="number" value="00177" />
+      <option name="presentableId" value="LOCAL-00177" />
+      <option name="project" value="LOCAL" />
+      <updated>1720779835296</updated>
+    </task>
+    <task id="LOCAL-00178" summary=":memo: 입문문제 Day 19 중복된 숫자 개수">
+      <option name="closed" value="true" />
+      <created>1720779846372</created>
+      <option name="number" value="00178" />
+      <option name="presentableId" value="LOCAL-00178" />
+      <option name="project" value="LOCAL" />
+      <updated>1720779846372</updated>
+    </task>
+    <option name="localTasksCounter" value="179" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -562,7 +558,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value=":memo: 입문문제 Day 13 배열 원소의 길이" />
     <MESSAGE value=":memo: 입문문제 Day 13 중복된 문자 제거" />
     <MESSAGE value=":memo: 입문문제 Day 13 삼각형의 완성조건 (1)" />
     <MESSAGE value=":memo: 입문문제 Day 14 가까운 수" />
@@ -587,6 +582,7 @@
     <MESSAGE value=":memo: 입문문제 Day 18 문자열 정렬하기 (2)" />
     <MESSAGE value=":memo: 입문문제 Day 19 7의 개수" />
     <MESSAGE value=":memo: 입문문제 Day 19 잘라서 배열로 저장하기" />
-    <option name="LAST_COMMIT_MESSAGE" value=":memo: 입문문제 Day 19 잘라서 배열로 저장하기" />
+    <MESSAGE value=":memo: 입문문제 Day 19 중복된 숫자 개수" />
+    <option name="LAST_COMMIT_MESSAGE" value=":memo: 입문문제 Day 19 중복된 숫자 개수" />
   </component>
 </project>
