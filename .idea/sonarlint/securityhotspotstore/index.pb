@@ -969,3 +969,17 @@ V
 cintroductionQuestion/Day_18/.idea/sonarlint/issuestore/4/7/475bf0dcc22352aa8e26db3057bbc61619ac2417,e\d\ed75e455ae1660ea3a6c64246f4e6cc48f041cd0
 ù
 mintroductionQuestion/Day_18/.idea/sonarlint/securityhotspotstore/4/7/475bf0dcc22352aa8e26db3057bbc61619ac2417,f\2\f24d1070807b7a275da69612f8d27e9b2d3fbddb
+ù
+mintroductionQuestion/Day_19/.idea/sonarlint/securityhotspotstore/c/5/c5b00f7f0ec9482b8ba3c328d6af16586c50b863,1\4\144e561caf432489ca156cd85170c6a12eb79baa
+V
+&introductionQuestion/Day_19/Main1.java,7\4\741c147d80e1a4db8be6a675b550971c3233fd44
+o
+?introductionQuestion/Day_19/.idea/sonarlint/issuestore/index.pb,8\9\89e70cd35daf4531eca95b1a64aa2f62b5e65462
+y
+IintroductionQuestion/Day_19/.idea/sonarlint/securityhotspotstore/index.pb,8\9\89cf0c62e2731e81bd708c86090eea412432be09
+ì
+cintroductionQuestion/Day_19/.idea/sonarlint/issuestore/0/d/0d26f9d1452d0ef580b37f42842f0cc996bb3754,8\3\83d8724d64d72c837d7e645d747f4cd9c27253a8
+ù
+mintroductionQuestion/Day_19/.idea/sonarlint/securityhotspotstore/0/d/0d26f9d1452d0ef580b37f42842f0cc996bb3754,a\8\a8440bf8d4fb15043100ac87586c956d4279f7a9
+V
+&introductionQuestion/Day_19/Main2.java,1\d\1d8a8393bbc8de81a280b1459c0ff0cc16667620
