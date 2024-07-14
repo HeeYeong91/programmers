@@ -4,11 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="135563da-75a8-4af9-9025-2d4c919b84c2" name="Changes" comment=":memo: 입문문제 Day 19 중복된 숫자 개수">
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/introductionQuestion/Day_19/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/introductionQuestion/Day_19/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/introductionQuestion/Day_19/.idea/sonarlint/securityhotspotstore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/introductionQuestion/Day_19/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
+    <list default="true" id="135563da-75a8-4af9-9025-2d4c919b84c2" name="Changes" comment=":memo: 입문문제 Day 19 머쓱이보다 키 큰 사람">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -146,15 +143,8 @@
       <workItem from="1720524232132" duration="2268000" />
       <workItem from="1720614292796" duration="1584000" />
       <workItem from="1720678229596" duration="1914000" />
-      <workItem from="1720778088367" duration="1275000" />
-    </task>
-    <task id="LOCAL-00130" summary=":memo: 입문문제 Day 8 배열 자르기">
-      <option name="closed" value="true" />
-      <created>1719643989459</created>
-      <option name="number" value="00130" />
-      <option name="presentableId" value="LOCAL-00130" />
-      <option name="project" value="LOCAL" />
-      <updated>1719643989460</updated>
+      <workItem from="1720778088367" duration="1386000" />
+      <workItem from="1720950123437" duration="471000" />
     </task>
     <task id="LOCAL-00131" summary=":memo: 입문문제 Day 8 외계행성의 나이">
       <option name="closed" value="true" />
@@ -540,7 +530,15 @@
       <option name="project" value="LOCAL" />
       <updated>1720779846372</updated>
     </task>
-    <option name="localTasksCounter" value="179" />
+    <task id="LOCAL-00179" summary=":memo: 입문문제 Day 19 머쓱이보다 키 큰 사람">
+      <option name="closed" value="true" />
+      <created>1720780026199</created>
+      <option name="number" value="00179" />
+      <option name="presentableId" value="LOCAL-00179" />
+      <option name="project" value="LOCAL" />
+      <updated>1720780026199</updated>
+    </task>
+    <option name="localTasksCounter" value="180" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -558,7 +556,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value=":memo: 입문문제 Day 13 중복된 문자 제거" />
     <MESSAGE value=":memo: 입문문제 Day 13 삼각형의 완성조건 (1)" />
     <MESSAGE value=":memo: 입문문제 Day 14 가까운 수" />
     <MESSAGE value=":memo: 입문문제 Day 14 369게임" />
@@ -583,6 +580,7 @@
     <MESSAGE value=":memo: 입문문제 Day 19 7의 개수" />
     <MESSAGE value=":memo: 입문문제 Day 19 잘라서 배열로 저장하기" />
     <MESSAGE value=":memo: 입문문제 Day 19 중복된 숫자 개수" />
-    <option name="LAST_COMMIT_MESSAGE" value=":memo: 입문문제 Day 19 중복된 숫자 개수" />
+    <MESSAGE value=":memo: 입문문제 Day 19 머쓱이보다 키 큰 사람" />
+    <option name="LAST_COMMIT_MESSAGE" value=":memo: 입문문제 Day 19 머쓱이보다 키 큰 사람" />
   </component>
 </project>
