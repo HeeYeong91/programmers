@@ -1061,3 +1061,15 @@ cintroductionQuestion/Day_22/.idea/sonarlint/issuestore/0/d/0d26f9d1452d0ef580b3
 mintroductionQuestion/Day_22/.idea/sonarlint/securityhotspotstore/0/d/0d26f9d1452d0ef580b37f42842f0cc996bb3754,c\e\cef6a06944f5f0072885bd6cc66aa8234adf0abd
 V
 &introductionQuestion/Day_22/Main2.java,c\c\ccd72bf1af32bcfc156119f85695ea3a383a59c5
+ù
+mintroductionQuestion/Day_22/.idea/sonarlint/securityhotspotstore/a/9/a9d2be3bd230c46b86f04d8d7250f088545c7a15,d\4\d48e3b1be56ce228ea740d0f51a707aca01f8d79
+ì
+cintroductionQuestion/Day_22/.idea/sonarlint/issuestore/a/9/a9d2be3bd230c46b86f04d8d7250f088545c7a15,a\4\a4a5ba8930cfd77c929d4bbecbbad523f1e09be3
+V
+&introductionQuestion/Day_22/Main3.java,f\a\faf841c40e0cb8261862edfe20fea15f69cf0019
+V
+&introductionQuestion/Day_22/Main4.java,1\a\1ada0805909b063e4c6ac7d9e4fbcc5c2533e67c
+ù
+mintroductionQuestion/Day_22/.idea/sonarlint/securityhotspotstore/4/7/475bf0dcc22352aa8e26db3057bbc61619ac2417,d\4\d4c9cf29a3bbed2ffe2cb0f487b3695fbb9cd960
+ì
+cintroductionQuestion/Day_22/.idea/sonarlint/issuestore/4/7/475bf0dcc22352aa8e26db3057bbc61619ac2417,0\4\0476243b621ff2662bd4317cbb3b829d6316d666
