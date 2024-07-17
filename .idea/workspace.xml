@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="135563da-75a8-4af9-9025-2d4c919b84c2" name="Changes" comment=":memo: 입문문제 Day 23 특이한 정렬">
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
+    <list default="true" id="135563da-75a8-4af9-9025-2d4c919b84c2" name="Changes" comment=":memo: 입문문제 Day 23 등수 매기기">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/introductionQuestion/Day_23/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/introductionQuestion/Day_23/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/introductionQuestion/Day_23/.idea/sonarlint/securityhotspotstore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/introductionQuestion/Day_23/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
     </list>
@@ -150,15 +149,7 @@
       <workItem from="1720950123437" duration="2221000" />
       <workItem from="1721034591958" duration="2665000" />
       <workItem from="1721120390452" duration="2249000" />
-      <workItem from="1721201592469" duration="983000" />
-    </task>
-    <task id="LOCAL-00144" summary=":memo: 입문문제 Day 11 합성수 찾기">
-      <option name="closed" value="true" />
-      <created>1720002415550</created>
-      <option name="number" value="00144" />
-      <option name="presentableId" value="LOCAL-00144" />
-      <option name="project" value="LOCAL" />
-      <updated>1720002415550</updated>
+      <workItem from="1721201592469" duration="1863000" />
     </task>
     <task id="LOCAL-00145" summary=":memo: 입문문제 Day 11 최댓값 만들기 (1)">
       <option name="closed" value="true" />
@@ -544,7 +535,15 @@
       <option name="project" value="LOCAL" />
       <updated>1721202595535</updated>
     </task>
-    <option name="localTasksCounter" value="193" />
+    <task id="LOCAL-00193" summary=":memo: 입문문제 Day 23 등수 매기기">
+      <option name="closed" value="true" />
+      <created>1721203234579</created>
+      <option name="number" value="00193" />
+      <option name="presentableId" value="LOCAL-00193" />
+      <option name="project" value="LOCAL" />
+      <updated>1721203234579</updated>
+    </task>
+    <option name="localTasksCounter" value="194" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -562,7 +561,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value=":memo: 입문문제 Day 17 숫자 찾기" />
     <MESSAGE value=":memo: 입문문제 Day 17 n의 배수 고르기" />
     <MESSAGE value=":memo: 입문문제 Day 17 자릿수 더하기" />
     <MESSAGE value=":memo: 입문문제 Day 17 OX퀴즈" />
@@ -587,6 +585,7 @@
     <MESSAGE value=":memo: 입문문제 Day 22 겹치는 선분의 길이" />
     <MESSAGE value=":memo: 입문문제 Day 22 유한소수 판별하기" />
     <MESSAGE value=":memo: 입문문제 Day 23 특이한 정렬" />
-    <option name="LAST_COMMIT_MESSAGE" value=":memo: 입문문제 Day 23 특이한 정렬" />
+    <MESSAGE value=":memo: 입문문제 Day 23 등수 매기기" />
+    <option name="LAST_COMMIT_MESSAGE" value=":memo: 입문문제 Day 23 등수 매기기" />
   </component>
 </project>
