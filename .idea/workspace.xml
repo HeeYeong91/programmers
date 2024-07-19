@@ -4,8 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="135563da-75a8-4af9-9025-2d4c919b84c2" name="Changes" comment=":memo: 입문문제 Day 24 k의 개수">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="135563da-75a8-4af9-9025-2d4c919b84c2" name="Changes" comment=":memo: 입문문제 Day 25 문자열 밀기">
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/introductionQuestion/Day_25/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/introductionQuestion/Day_25/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/introductionQuestion/Day_25/.idea/sonarlint/securityhotspotstore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/introductionQuestion/Day_25/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -149,15 +152,7 @@
       <workItem from="1721120390452" duration="2249000" />
       <workItem from="1721201592469" duration="2513000" />
       <workItem from="1721284689769" duration="1767000" />
-      <workItem from="1721391451157" duration="607000" />
-    </task>
-    <task id="LOCAL-00151" summary=":memo: 입문문제 Day 13 컨트롤 제트">
-      <option name="closed" value="true" />
-      <created>1720234014474</created>
-      <option name="number" value="00151" />
-      <option name="presentableId" value="LOCAL-00151" />
-      <option name="project" value="LOCAL" />
-      <updated>1720234014475</updated>
+      <workItem from="1721391451157" duration="754000" />
     </task>
     <task id="LOCAL-00152" summary=":memo: 입문문제 Day 13 배열 원소의 길이">
       <option name="closed" value="true" />
@@ -543,7 +538,15 @@
       <option name="project" value="LOCAL" />
       <updated>1721286446659</updated>
     </task>
-    <option name="localTasksCounter" value="200" />
+    <task id="LOCAL-00200" summary=":memo: 입문문제 Day 25 문자열 밀기">
+      <option name="closed" value="true" />
+      <created>1721392536581</created>
+      <option name="number" value="00200" />
+      <option name="presentableId" value="LOCAL-00200" />
+      <option name="project" value="LOCAL" />
+      <updated>1721392536581</updated>
+    </task>
+    <option name="localTasksCounter" value="201" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -561,7 +564,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value=":memo: 입문문제 Day 18 문자열 정렬하기 (2)" />
     <MESSAGE value=":memo: 입문문제 Day 19 7의 개수" />
     <MESSAGE value=":memo: 입문문제 Day 19 잘라서 배열로 저장하기" />
     <MESSAGE value=":memo: 입문문제 Day 19 중복된 숫자 개수" />
@@ -586,6 +588,7 @@
     <MESSAGE value=":memo: 입문문제 Day 24 이진수 더하기" />
     <MESSAGE value=":memo: 입문문제 Day 24 A로 B 만들기" />
     <MESSAGE value=":memo: 입문문제 Day 24 k의 개수" />
-    <option name="LAST_COMMIT_MESSAGE" value=":memo: 입문문제 Day 24 k의 개수" />
+    <MESSAGE value=":memo: 입문문제 Day 25 문자열 밀기" />
+    <option name="LAST_COMMIT_MESSAGE" value=":memo: 입문문제 Day 25 문자열 밀기" />
   </component>
 </project>
