@@ -4,12 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="135563da-75a8-4af9-9025-2d4c919b84c2" name="Changes" comment=":memo: 입문문제 Day 25 다음에 올 숫자">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="135563da-75a8-4af9-9025-2d4c919b84c2" name="Changes" comment=":memo: [PCCE 기출문제] 1번 / 출력" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -183,15 +178,7 @@
       <workItem from="1721201592469" duration="2513000" />
       <workItem from="1721284689769" duration="1767000" />
       <workItem from="1721391451157" duration="2114000" />
-      <workItem from="1721648235096" duration="591000" />
-    </task>
-    <task id="LOCAL-00155" summary=":memo: 입문문제 Day 14 가까운 수">
-      <option name="closed" value="true" />
-      <created>1720355166252</created>
-      <option name="number" value="00155" />
-      <option name="presentableId" value="LOCAL-00155" />
-      <option name="project" value="LOCAL" />
-      <updated>1720355166253</updated>
+      <workItem from="1721648235096" duration="931000" />
     </task>
     <task id="LOCAL-00156" summary=":memo: 입문문제 Day 14 369게임">
       <option name="closed" value="true" />
@@ -577,7 +564,15 @@
       <option name="project" value="LOCAL" />
       <updated>1721394237790</updated>
     </task>
-    <option name="localTasksCounter" value="204" />
+    <task id="LOCAL-00204" summary=":memo: [PCCE 기출문제] 1번 / 출력">
+      <option name="closed" value="true" />
+      <created>1721648980371</created>
+      <option name="number" value="00204" />
+      <option name="presentableId" value="LOCAL-00204" />
+      <option name="project" value="LOCAL" />
+      <updated>1721648980371</updated>
+    </task>
+    <option name="localTasksCounter" value="205" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -595,7 +590,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value=":memo: 입문문제 Day 19 머쓱이보다 키 큰 사람" />
     <MESSAGE value=":memo: 입문문제 Day 20 직사각형 넓이 구하기" />
     <MESSAGE value=":memo: 입문문제 Day 20 캐릭터의 좌표" />
     <MESSAGE value=":memo: 입문문제 Day 20 최댓값 만들기 (2)" />
@@ -620,6 +614,7 @@
     <MESSAGE value=":memo: 입문문제 Day 25 종이 자르기" />
     <MESSAGE value=":memo: 입문문제 Day 25 연속된 수의 합" />
     <MESSAGE value=":memo: 입문문제 Day 25 다음에 올 숫자" />
-    <option name="LAST_COMMIT_MESSAGE" value=":memo: 입문문제 Day 25 다음에 올 숫자" />
+    <MESSAGE value=":memo: [PCCE 기출문제] 1번 / 출력" />
+    <option name="LAST_COMMIT_MESSAGE" value=":memo: [PCCE 기출문제] 1번 / 출력" />
   </component>
 </project>
