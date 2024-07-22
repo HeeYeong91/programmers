@@ -4,17 +4,46 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="135563da-75a8-4af9-9025-2d4c919b84c2" name="Changes" comment=":memo: 입문문제 Day 25 연속된 수의 합">
+    <list default="true" id="135563da-75a8-4af9-9025-2d4c919b84c2" name="Changes" comment=":memo: 입문문제 Day 25 다음에 올 숫자">
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/introductionQuestion/Day_25/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/introductionQuestion/Day_25/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/introductionQuestion/Day_25/.idea/sonarlint/securityhotspotstore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/introductionQuestion/Day_25/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$/codingtest">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <task path="$PROJECT_DIR$/codingtest">
+          <activation />
+        </task>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="codingtest" type="f1a62948:ProjectNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="codingtest" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -153,15 +182,8 @@
       <workItem from="1721120390452" duration="2249000" />
       <workItem from="1721201592469" duration="2513000" />
       <workItem from="1721284689769" duration="1767000" />
-      <workItem from="1721391451157" duration="2017000" />
-    </task>
-    <task id="LOCAL-00154" summary=":memo: 입문문제 Day 13 삼각형의 완성조건 (1)">
-      <option name="closed" value="true" />
-      <created>1720235014658</created>
-      <option name="number" value="00154" />
-      <option name="presentableId" value="LOCAL-00154" />
-      <option name="project" value="LOCAL" />
-      <updated>1720235014658</updated>
+      <workItem from="1721391451157" duration="2114000" />
+      <workItem from="1721648235096" duration="591000" />
     </task>
     <task id="LOCAL-00155" summary=":memo: 입문문제 Day 14 가까운 수">
       <option name="closed" value="true" />
@@ -547,7 +569,15 @@
       <option name="project" value="LOCAL" />
       <updated>1721393344213</updated>
     </task>
-    <option name="localTasksCounter" value="203" />
+    <task id="LOCAL-00203" summary=":memo: 입문문제 Day 25 다음에 올 숫자">
+      <option name="closed" value="true" />
+      <created>1721394237790</created>
+      <option name="number" value="00203" />
+      <option name="presentableId" value="LOCAL-00203" />
+      <option name="project" value="LOCAL" />
+      <updated>1721394237790</updated>
+    </task>
+    <option name="localTasksCounter" value="204" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -565,7 +595,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value=":memo: 입문문제 Day 19 중복된 숫자 개수" />
     <MESSAGE value=":memo: 입문문제 Day 19 머쓱이보다 키 큰 사람" />
     <MESSAGE value=":memo: 입문문제 Day 20 직사각형 넓이 구하기" />
     <MESSAGE value=":memo: 입문문제 Day 20 캐릭터의 좌표" />
@@ -590,6 +619,7 @@
     <MESSAGE value=":memo: 입문문제 Day 25 문자열 밀기" />
     <MESSAGE value=":memo: 입문문제 Day 25 종이 자르기" />
     <MESSAGE value=":memo: 입문문제 Day 25 연속된 수의 합" />
-    <option name="LAST_COMMIT_MESSAGE" value=":memo: 입문문제 Day 25 연속된 수의 합" />
+    <MESSAGE value=":memo: 입문문제 Day 25 다음에 올 숫자" />
+    <option name="LAST_COMMIT_MESSAGE" value=":memo: 입문문제 Day 25 다음에 올 숫자" />
   </component>
 </project>
