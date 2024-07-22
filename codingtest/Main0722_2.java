@@ -1,7 +1,7 @@
 import java.util.Scanner;
 
 /**
- * 코딩테스트 연습 PCCE 기출문제 1번
+ * 코딩테스트 연습 PCCE 기출문제 2번
  * 피타고라스의 정리
  */
 public class Main0722_2 {
